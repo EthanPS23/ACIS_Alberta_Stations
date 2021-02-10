@@ -1,0 +1,22 @@
+{
+  "name": "acis_alberta_stations",
+  "version": "1.0.0",
+  "description": "Application to grab weather station data from ACIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanPS23/ACIS_Alberta_Stations.git"
+  },
+  "author": "EthanPS23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanPS23/ACIS_Alberta_Stations/issues"
+  },
+  "homepage": "https://github.com/EthanPS23/ACIS_Alberta_Stations#readme",
+  "dependencies": {
+    "puppeteer": "^7.0.4"
+  }
+}
