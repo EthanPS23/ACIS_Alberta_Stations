@@ -1,0 +1,4812 @@
+[
+  {
+    "stationID": "-1",
+    "stationName": "Select Station",
+    "stationLatitude": "",
+    "stationLongitude": "",
+    "stationElevation": "",
+    "stationClimateID": "",
+    "stationWMOID": "",
+    "stationTransportCanID": ""
+  },
+  {
+    "stationID": "10540",
+    "stationName": "Abee AGDM",
+    "stationLatitude": "54.2773",
+    "stationLongitude": "-112.9654",
+    "stationElevation": "664.00",
+    "stationClimateID": "3010010",
+    "stationWMOID": "71285",
+    "stationTransportCanID": "XAF"
+  },
+  {
+    "stationID": "15219",
+    "stationName": "Acadia Valley AGCM",
+    "stationLatitude": "51.0664",
+    "stationLongitude": "-110.3172",
+    "stationElevation": "735.00",
+    "stationClimateID": "3020035",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "77444",
+    "stationName": "Agtech AGCM",
+    "stationLatitude": "49.6471",
+    "stationLongitude": "-112.7625",
+    "stationElevation": "916.00",
+    "stationClimateID": "3033877",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11799",
+    "stationName": "Akamina 2",
+    "stationLatitude": "49.0333",
+    "stationLongitude": "-114.0500",
+    "stationElevation": "1676.00",
+    "stationClimateID": "3050070",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "AKA"
+  },
+  {
+    "stationID": "10310",
+    "stationName": "Albert Hall AGCM",
+    "stationLatitude": "53.1134",
+    "stationLongitude": "-111.1812",
+    "stationElevation": "658.00",
+    "stationClimateID": "3010060",
+    "stationWMOID": "71005",
+    "stationTransportCanID": "PAH"
+  },
+  {
+    "stationID": "710457",
+    "stationName": "Algar Auto",
+    "stationLatitude": "56.1608",
+    "stationLongitude": "-111.7198",
+    "stationElevation": "750.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6039",
+    "stationName": "Alliance AGCM",
+    "stationLatitude": "52.3154",
+    "stationLongitude": "-111.7787",
+    "stationElevation": "737.00",
+    "stationClimateID": "3010162",
+    "stationWMOID": "71006",
+    "stationTransportCanID": "PAA"
+  },
+  {
+    "stationID": "20451",
+    "stationName": "Altawan Evaporation Station",
+    "stationLatitude": "49.2455",
+    "stationLongitude": "-110.0136",
+    "stationElevation": "925.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10585",
+    "stationName": "Andrew AGDM",
+    "stationLatitude": "53.9176",
+    "stationLongitude": "-112.2783",
+    "stationElevation": "632.00",
+    "stationClimateID": "3010237",
+    "stationWMOID": "71286",
+    "stationTransportCanID": "XAG"
+  },
+  {
+    "stationID": "710523",
+    "stationName": "Ansell Auto",
+    "stationLatitude": "53.5513",
+    "stationLongitude": "-116.5031",
+    "stationElevation": "967.70",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710513",
+    "stationName": "Antler West Auto",
+    "stationLatitude": "54.0898",
+    "stationLongitude": "-119.7988",
+    "stationElevation": "1247.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "3133828",
+    "stationName": "Ardenville AGCM",
+    "stationLatitude": "49.5276",
+    "stationLongitude": "-113.4341",
+    "stationElevation": "1119.00",
+    "stationClimateID": "3030200",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PAV"
+  },
+  {
+    "stationID": "9882",
+    "stationName": "Athabasca AGCM",
+    "stationLatitude": "54.6348",
+    "stationLongitude": "-113.3821",
+    "stationElevation": "635.00",
+    "stationClimateID": "3060330",
+    "stationWMOID": "71271",
+    "stationTransportCanID": "PAF"
+  },
+  {
+    "stationID": "877",
+    "stationName": "Atlee AGCM",
+    "stationLatitude": "50.8102",
+    "stationLongitude": "-111.0056",
+    "stationElevation": "795.00",
+    "stationClimateID": "3020405",
+    "stationWMOID": "71986",
+    "stationTransportCanID": "PAT"
+  },
+  {
+    "stationID": "9927",
+    "stationName": "Atmore AGDM",
+    "stationLatitude": "54.7802",
+    "stationLongitude": "-112.8248",
+    "stationElevation": "583.00",
+    "stationClimateID": "3060406",
+    "stationWMOID": "71287",
+    "stationTransportCanID": "XAJ"
+  },
+  {
+    "stationID": "1501",
+    "stationName": "Aurora",
+    "stationLatitude": "57.2377",
+    "stationLongitude": "-111.4075",
+    "stationElevation": "0.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "907",
+    "stationName": "Azure AGCM",
+    "stationLatitude": "50.5119",
+    "stationLongitude": "-114.0130",
+    "stationElevation": "1143.00",
+    "stationClimateID": "3030450",
+    "stationWMOID": "71981",
+    "stationTransportCanID": "PAZ"
+  },
+  {
+    "stationID": "710476",
+    "stationName": "Bald Mountain Auto",
+    "stationLatitude": "54.8127",
+    "stationLongitude": "-118.9158",
+    "stationElevation": "933.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "7191",
+    "stationName": "Ballater AGCM",
+    "stationLatitude": "55.5769",
+    "stationLongitude": "-117.2356",
+    "stationElevation": "560.00",
+    "stationClimateID": "3070495",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PBC"
+  },
+  {
+    "stationID": "2004",
+    "stationName": "Banff CS",
+    "stationLatitude": "51.1934",
+    "stationLongitude": "-115.5522",
+    "stationElevation": "1370.00",
+    "stationClimateID": "3050519",
+    "stationWMOID": "71122",
+    "stationTransportCanID": "WZG"
+  },
+  {
+    "stationID": "9211",
+    "stationName": "Barnwell AGDM",
+    "stationLatitude": "49.8017",
+    "stationLongitude": "-112.3022",
+    "stationElevation": "824.00",
+    "stationClimateID": "3030525",
+    "stationWMOID": "71346",
+    "stationTransportCanID": "XBW"
+  },
+  {
+    "stationID": "9681",
+    "stationName": "Barons AGCM",
+    "stationLatitude": "50.0260",
+    "stationLongitude": "-113.2246",
+    "stationElevation": "967.00",
+    "stationClimateID": "3030529",
+    "stationWMOID": "71007",
+    "stationTransportCanID": "PBA"
+  },
+  {
+    "stationID": "2015",
+    "stationName": "Barrhead CS",
+    "stationLatitude": "54.1000",
+    "stationLongitude": "-114.4500",
+    "stationElevation": "648.00",
+    "stationClimateID": "3060535",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XBD"
+  },
+  {
+    "stationID": "10159",
+    "stationName": "Bassano AGCM",
+    "stationLatitude": "50.8926",
+    "stationLongitude": "-112.4652",
+    "stationElevation": "807.00",
+    "stationClimateID": "3030540",
+    "stationWMOID": "71008",
+    "stationTransportCanID": "PBS"
+  },
+  {
+    "stationID": "710514",
+    "stationName": "Basset  Auto",
+    "stationLatitude": "58.1952",
+    "stationLongitude": "-118.2185",
+    "stationElevation": "755.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710452",
+    "stationName": "Battle River Auto",
+    "stationLatitude": "57.1677",
+    "stationLongitude": "-117.6640",
+    "stationElevation": "675.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12025",
+    "stationName": "Battle River Headwaters",
+    "stationLatitude": "52.9306",
+    "stationLongitude": "-114.1950",
+    "stationElevation": "960.00",
+    "stationClimateID": "3010540",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "BAT"
+  },
+  {
+    "stationID": "2024",
+    "stationName": "Beauvais Park",
+    "stationLatitude": "49.4166",
+    "stationLongitude": "-114.1000",
+    "stationElevation": "1524.00",
+    "stationClimateID": "3030555",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "BVP"
+  },
+  {
+    "stationID": "10757353",
+    "stationName": "Beaver Mines",
+    "stationLatitude": "49.4679",
+    "stationLongitude": "-114.1750",
+    "stationElevation": "1257.00",
+    "stationClimateID": "3050602",
+    "stationWMOID": "71304",
+    "stationTransportCanID": "PBM"
+  },
+  {
+    "stationID": "860726",
+    "stationName": "Beaverdam AGCM",
+    "stationLatitude": "54.1772",
+    "stationLongitude": "-110.3228",
+    "stationElevation": "592.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15721",
+    "stationName": "Beaverlodge RCS",
+    "stationLatitude": "55.1966",
+    "stationLongitude": "-119.3964",
+    "stationElevation": "745.00",
+    "stationClimateID": "3070600",
+    "stationWMOID": "71230",
+    "stationTransportCanID": "WBM"
+  },
+  {
+    "stationID": "10176",
+    "stationName": "Beiseker AGCM",
+    "stationLatitude": "51.3788",
+    "stationLongitude": "-113.3572",
+    "stationElevation": "896.00",
+    "stationClimateID": "3020610",
+    "stationWMOID": "71009",
+    "stationTransportCanID": "PBE"
+  },
+  {
+    "stationID": "6048",
+    "stationName": "Bellshill AGCM",
+    "stationLatitude": "52.5824",
+    "stationLongitude": "-111.4654",
+    "stationElevation": "721.00",
+    "stationClimateID": "3010650",
+    "stationWMOID": "71010",
+    "stationTransportCanID": "PBL"
+  },
+  {
+    "stationID": "31425225",
+    "stationName": "Berland Auto",
+    "stationLatitude": "54.0904",
+    "stationLongitude": "-117.4013",
+    "stationElevation": "1230.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64438",
+    "stationName": "Berland Hills Auto",
+    "stationLatitude": "54.1500",
+    "stationLongitude": "-117.8900",
+    "stationElevation": "1170.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6054",
+    "stationName": "Big Valley AGCM",
+    "stationLatitude": "51.9979",
+    "stationLongitude": "-112.8026",
+    "stationElevation": "870.00",
+    "stationClimateID": "3020679",
+    "stationWMOID": "71011",
+    "stationTransportCanID": "PBV"
+  },
+  {
+    "stationID": "710458",
+    "stationName": "Birch Mountain Auto",
+    "stationLatitude": "57.6946",
+    "stationLongitude": "-111.8261",
+    "stationElevation": "798.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710509",
+    "stationName": "Bison Lake Auto",
+    "stationLatitude": "57.1110",
+    "stationLongitude": "-116.5096",
+    "stationElevation": "716.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64354",
+    "stationName": "Bistcho Lake Auto",
+    "stationLatitude": "59.9100",
+    "stationLongitude": "-118.9600",
+    "stationElevation": "576.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12319",
+    "stationName": "Black Diamond AGCM",
+    "stationLatitude": "50.7068",
+    "stationLongitude": "-114.1517",
+    "stationElevation": "1156.00",
+    "stationClimateID": "3030680",
+    "stationWMOID": "71982",
+    "stationTransportCanID": "PBD"
+  },
+  {
+    "stationID": "517216",
+    "stationName": "Blackie AGCM",
+    "stationLatitude": "50.5458",
+    "stationLongitude": "-113.6403",
+    "stationElevation": "1019.00",
+    "stationClimateID": "3030690",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PXC"
+  },
+  {
+    "stationID": "64278",
+    "stationName": "Blairmore Ranger Station Auto",
+    "stationLatitude": "49.6100",
+    "stationLongitude": "-114.4500",
+    "stationElevation": "1311.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9747",
+    "stationName": "Blood Tribe Ag. Project IMCIN",
+    "stationLatitude": "49.5592",
+    "stationLongitude": "-113.0638",
+    "stationElevation": "998.99",
+    "stationClimateID": "3030720",
+    "stationWMOID": "71517",
+    "stationTransportCanID": "PBT"
+  },
+  {
+    "stationID": "11019",
+    "stationName": "Bodo AGDM",
+    "stationLatitude": "52.1242",
+    "stationLongitude": "-110.1011",
+    "stationElevation": "687.00",
+    "stationClimateID": "3010730",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XBA"
+  },
+  {
+    "stationID": "64365",
+    "stationName": "Bovine Creek AUTO",
+    "stationLatitude": "56.1100",
+    "stationLongitude": "-112.5500",
+    "stationElevation": "518.00",
+    "stationClimateID": "3060756",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15729",
+    "stationName": "Bow Island",
+    "stationLatitude": "49.7333",
+    "stationLongitude": "-111.4500",
+    "stationElevation": "817.00",
+    "stationClimateID": "3030768",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WXL"
+  },
+  {
+    "stationID": "10045",
+    "stationName": "Bow Island North IMCIN",
+    "stationLatitude": "49.7333",
+    "stationLongitude": "-111.4500",
+    "stationElevation": "817.00",
+    "stationClimateID": "3030768",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WXL"
+  },
+  {
+    "stationID": "11773",
+    "stationName": "Bow Summit (New)",
+    "stationLatitude": "51.7000",
+    "stationLongitude": "-116.4667",
+    "stationElevation": "2031.00",
+    "stationClimateID": "305A002",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2032",
+    "stationName": "Bow Valley",
+    "stationLatitude": "51.0833",
+    "stationLongitude": "-115.0667",
+    "stationElevation": "1298.00",
+    "stationClimateID": "3050778",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WXA"
+  },
+  {
+    "stationID": "5012",
+    "stationName": "Breton Plots",
+    "stationLatitude": "53.0893",
+    "stationLongitude": "-114.4428",
+    "stationElevation": "853.00",
+    "stationClimateID": "3010816",
+    "stationWMOID": "71233",
+    "stationTransportCanID": "WOV"
+  },
+  {
+    "stationID": "9020",
+    "stationName": "Brocket AGDM",
+    "stationLatitude": "49.6107",
+    "stationLongitude": "-113.7591",
+    "stationElevation": "1073.00",
+    "stationClimateID": "3030830",
+    "stationWMOID": "71341",
+    "stationTransportCanID": "XBR"
+  },
+  {
+    "stationID": "15741",
+    "stationName": "Brooks",
+    "stationLatitude": "50.5500",
+    "stationLongitude": "-111.8500",
+    "stationElevation": "747.00",
+    "stationClimateID": "3030QLP",
+    "stationWMOID": "71457",
+    "stationTransportCanID": "WBO"
+  },
+  {
+    "stationID": "9494",
+    "stationName": "Brownvale AGCM",
+    "stationLatitude": "56.1177",
+    "stationLongitude": "-117.8866",
+    "stationElevation": "748.00",
+    "stationClimateID": "3070800",
+    "stationWMOID": "71283",
+    "stationTransportCanID": "PBN"
+  },
+  {
+    "stationID": "710510",
+    "stationName": "Buckton Auto",
+    "stationLatitude": "57.9428",
+    "stationLongitude": "-112.3976",
+    "stationElevation": "646.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "592422",
+    "stationName": "Buffalo AGCM",
+    "stationLatitude": "50.7981",
+    "stationLongitude": "-110.6858",
+    "stationElevation": "723.00",
+    "stationClimateID": "3020950",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PXB"
+  },
+  {
+    "stationID": "546634",
+    "stationName": "Bull Springs AGCM",
+    "stationLatitude": "50.3397",
+    "stationLongitude": "-110.4841",
+    "stationElevation": "780.00",
+    "stationClimateID": "3030879",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PBU"
+  },
+  {
+    "stationID": "15282",
+    "stationName": "Bullhorn Coulee Reservoir Inlet",
+    "stationLatitude": "49.2952",
+    "stationLongitude": "-113.3586",
+    "stationElevation": "1115.00",
+    "stationClimateID": "3050960",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PBR"
+  },
+  {
+    "stationID": "15303",
+    "stationName": "Bullhorn Headwaters",
+    "stationLatitude": "49.1525",
+    "stationLongitude": "-113.5506",
+    "stationElevation": "1326.00",
+    "stationClimateID": "3050965",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PBH"
+  },
+  {
+    "stationID": "11439",
+    "stationName": "Burns Creek",
+    "stationLatitude": "50.6166",
+    "stationLongitude": "-114.8833",
+    "stationElevation": "1899.00",
+    "stationClimateID": "3050974",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "BSC"
+  },
+  {
+    "stationID": "10329",
+    "stationName": "Busby AGCM",
+    "stationLatitude": "53.9309",
+    "stationLongitude": "-113.9216",
+    "stationElevation": "714.00",
+    "stationClimateID": "3010979",
+    "stationWMOID": "71284",
+    "stationTransportCanID": "PBB"
+  },
+  {
+    "stationID": "37722",
+    "stationName": "Cabin Lake AGCM",
+    "stationLatitude": "51.0237",
+    "stationLongitude": "-111.2216",
+    "stationElevation": "722.00",
+    "stationClimateID": "3021000",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCL"
+  },
+  {
+    "stationID": "6060",
+    "stationName": "Cadogan AGCM",
+    "stationLatitude": "52.3343",
+    "stationLongitude": "-110.5100",
+    "stationElevation": "690.00",
+    "stationClimateID": "3010992",
+    "stationWMOID": "71012",
+    "stationTransportCanID": "PCA"
+  },
+  {
+    "stationID": "710467",
+    "stationName": "Cadotte Auto",
+    "stationLatitude": "56.3035",
+    "stationLongitude": "-116.4302",
+    "stationElevation": "730.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2049",
+    "stationName": "Calgary Int'L CS",
+    "stationLatitude": "51.1098",
+    "stationLongitude": "-114.0500",
+    "stationElevation": "1081.00",
+    "stationClimateID": "3031094",
+    "stationWMOID": "71393",
+    "stationTransportCanID": "PCI"
+  },
+  {
+    "stationID": "15753",
+    "stationName": "Calgary Intl A",
+    "stationLatitude": "51.1139",
+    "stationLongitude": "-114.0203",
+    "stationElevation": "1084.00",
+    "stationClimateID": "3031092",
+    "stationWMOID": "71877",
+    "stationTransportCanID": "YYC"
+  },
+  {
+    "stationID": "39273311",
+    "stationName": "Calgary Springbank A",
+    "stationLatitude": "51.1053",
+    "stationLongitude": "-114.3714",
+    "stationElevation": "1200.90",
+    "stationClimateID": "3031109",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "YBW"
+  },
+  {
+    "stationID": "710464",
+    "stationName": "Cambrian Auto",
+    "stationLatitude": "59.2576",
+    "stationLongitude": "-110.8046",
+    "stationElevation": "325.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10757196",
+    "stationName": "Campsie Auto",
+    "stationLatitude": "54.1322",
+    "stationLongitude": "-114.6777",
+    "stationElevation": "647.00",
+    "stationClimateID": "3061201",
+    "stationWMOID": "71636",
+    "stationTransportCanID": "PZC"
+  },
+  {
+    "stationID": "15695",
+    "stationName": "Camrose",
+    "stationLatitude": "53.0333",
+    "stationLongitude": "-112.8167",
+    "stationElevation": "739.00",
+    "stationClimateID": "3011240",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WRV"
+  },
+  {
+    "stationID": "7484011",
+    "stationName": "Cappon AGCM",
+    "stationLatitude": "53.0333",
+    "stationLongitude": "-112.8167",
+    "stationElevation": "739.00",
+    "stationClimateID": "3011240",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WRV"
+  },
+  {
+    "stationID": "15704",
+    "stationName": "Cardston",
+    "stationLatitude": "49.2006",
+    "stationLongitude": "-113.2858",
+    "stationElevation": "1193.00",
+    "stationClimateID": "3031322",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WFJ"
+  },
+  {
+    "stationID": "21186998",
+    "stationName": "Carrot Creek AGCM",
+    "stationLatitude": "53.6231",
+    "stationLongitude": "-115.8938",
+    "stationElevation": "860.00",
+    "stationClimateID": "3061350",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710524",
+    "stationName": "Carrot Creek Auto",
+    "stationLatitude": "53.4390",
+    "stationLongitude": "-115.8500",
+    "stationElevation": "1056.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "549002",
+    "stationName": "Carway",
+    "stationLatitude": "49.0006",
+    "stationLongitude": "-113.3761",
+    "stationElevation": "1354.00",
+    "stationClimateID": "3031402",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCY"
+  },
+  {
+    "stationID": "64259",
+    "stationName": "Castle Auto",
+    "stationLatitude": "49.3900",
+    "stationLongitude": "-114.3400",
+    "stationElevation": "1352.00",
+    "stationClimateID": "3051430",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "540413",
+    "stationName": "Cereal AGCM",
+    "stationLatitude": "51.2758",
+    "stationLongitude": "-110.8244",
+    "stationElevation": "753.00",
+    "stationClimateID": "3021463",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCE"
+  },
+  {
+    "stationID": "9353",
+    "stationName": "Champion AGDM",
+    "stationLatitude": "50.2953",
+    "stationLongitude": "-113.3467",
+    "stationElevation": "995.00",
+    "stationClimateID": "3031480",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XCP"
+  },
+  {
+    "stationID": "11554",
+    "stationName": "Chapel Rock",
+    "stationLatitude": "49.7166",
+    "stationLongitude": "-114.2833",
+    "stationElevation": "1510.00",
+    "stationClimateID": "3051478",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "CHA"
+  },
+  {
+    "stationID": "11745",
+    "stationName": "Chief Customs",
+    "stationLatitude": "49.0003",
+    "stationLongitude": "-113.6583",
+    "stationElevation": "1690.00",
+    "stationClimateID": "3051545",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710453",
+    "stationName": "Chinchaga Auto",
+    "stationLatitude": "57.1117",
+    "stationLongitude": "-118.3333",
+    "stationElevation": "880.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "14999334",
+    "stationName": "Chip Alpac",
+    "stationLatitude": "56.5276",
+    "stationLongitude": "-113.4688",
+    "stationElevation": "573.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273069",
+    "stationName": "Chipewyan Lakes Auto",
+    "stationLatitude": "56.9940",
+    "stationLongitude": "-113.4240",
+    "stationElevation": "615.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39270970",
+    "stationName": "Chisholm Auto",
+    "stationLatitude": "54.9411",
+    "stationLongitude": "-114.0400",
+    "stationElevation": "685.00",
+    "stationClimateID": "3061570",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2546",
+    "stationName": "Christina Lake near Winefred Lake",
+    "stationLatitude": "55.6250",
+    "stationLongitude": "-110.7725",
+    "stationElevation": "557.00",
+    "stationClimateID": "3061580",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "CLW"
+  },
+  {
+    "stationID": "2058",
+    "stationName": "Claresholm",
+    "stationLatitude": "50.0036",
+    "stationLongitude": "-113.6386",
+    "stationElevation": "1012.00",
+    "stationClimateID": "3031640",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WDK"
+  },
+  {
+    "stationID": "9357",
+    "stationName": "Cleardale AGDM",
+    "stationLatitude": "56.3203",
+    "stationLongitude": "-119.7479",
+    "stationElevation": "635.00",
+    "stationClimateID": "3074935",
+    "stationWMOID": "71221",
+    "stationTransportCanID": "XCD"
+  },
+  {
+    "stationID": "64389",
+    "stationName": "Clearwater Auto",
+    "stationLatitude": "51.9900",
+    "stationLongitude": "-115.2400",
+    "stationElevation": "1280.00",
+    "stationClimateID": "3011663",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "4410",
+    "stationName": "Coalcamp Creek",
+    "stationLatitude": "51.7333",
+    "stationLongitude": "-114.9333",
+    "stationElevation": "1380.00",
+    "stationClimateID": "3021667",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2063",
+    "stationName": "Cold Lake A",
+    "stationLatitude": "54.4166",
+    "stationLongitude": "-110.2833",
+    "stationElevation": "541.00",
+    "stationClimateID": "3081680",
+    "stationWMOID": "71120",
+    "stationTransportCanID": "YOD"
+  },
+  {
+    "stationID": "4449",
+    "stationName": "Compression Ridge",
+    "stationLatitude": "50.9000",
+    "stationLongitude": "-114.9167",
+    "stationElevation": "1798.00",
+    "stationClimateID": "3051766",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11049",
+    "stationName": "Consort AGDM",
+    "stationLatitude": "51.9371",
+    "stationLongitude": "-110.7130",
+    "stationElevation": "772.00",
+    "stationClimateID": "3011815",
+    "stationWMOID": "71223",
+    "stationTransportCanID": "XCS"
+  },
+  {
+    "stationID": "2068",
+    "stationName": "Cop Upper",
+    "stationLatitude": "51.0833",
+    "stationLongitude": "-114.2167",
+    "stationElevation": "1235.00",
+    "stationClimateID": "3031875",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WDU"
+  },
+  {
+    "stationID": "2078",
+    "stationName": "Coronation Climate",
+    "stationLatitude": "52.0666",
+    "stationLongitude": "-111.4500",
+    "stationElevation": "791.00",
+    "stationClimateID": "3011887",
+    "stationWMOID": "71318",
+    "stationTransportCanID": "WCT"
+  },
+  {
+    "stationID": "39270985",
+    "stationName": "Cowpar Lake Auto",
+    "stationLatitude": "55.9534",
+    "stationLongitude": "-110.4972",
+    "stationElevation": "553.00",
+    "stationClimateID": "3061930",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15454",
+    "stationName": "Cox Hill",
+    "stationLatitude": "51.0013",
+    "stationLongitude": "-114.9366",
+    "stationElevation": "1675.00",
+    "stationClimateID": "3051932",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10484",
+    "stationName": "Craigmyle AGCM",
+    "stationLatitude": "51.7750",
+    "stationLongitude": "-112.2523",
+    "stationElevation": "845.00",
+    "stationClimateID": "3021912",
+    "stationWMOID": "71013",
+    "stationTransportCanID": "PCM"
+  },
+  {
+    "stationID": "6033",
+    "stationName": "Crestomere AGCM",
+    "stationLatitude": "52.7329",
+    "stationLongitude": "-113.9029",
+    "stationElevation": "855.00",
+    "stationClimateID": "3011892",
+    "stationWMOID": "71380",
+    "stationTransportCanID": "PCC"
+  },
+  {
+    "stationID": "15322",
+    "stationName": "Cross Drain 5",
+    "stationLatitude": "49.3345",
+    "stationLongitude": "-113.5243",
+    "stationElevation": "1074.00",
+    "stationClimateID": "3032818",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15549",
+    "stationName": "Crowsnest",
+    "stationLatitude": "49.6333",
+    "stationLongitude": "-114.4833",
+    "stationElevation": "1303.00",
+    "stationClimateID": "3051R4R",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15390",
+    "stationName": "Cuthead Lake",
+    "stationLatitude": "51.4500",
+    "stationLongitude": "-115.7667",
+    "stationElevation": "2180.00",
+    "stationClimateID": "3051R51",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "CHL"
+  },
+  {
+    "stationID": "64289",
+    "stationName": "Cypress Hills",
+    "stationLatitude": "49.6400",
+    "stationLongitude": "-110.3300",
+    "stationElevation": "1459.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10793",
+    "stationName": "Dapp AGDM",
+    "stationLatitude": "54.3290",
+    "stationLongitude": "-113.9345",
+    "stationElevation": "619.00",
+    "stationClimateID": "3061975",
+    "stationWMOID": "71340",
+    "stationTransportCanID": "XDP"
+  },
+  {
+    "stationID": "5493961",
+    "stationName": "Deadwood AGCM",
+    "stationLatitude": "56.7154",
+    "stationLongitude": "-117.5435",
+    "stationElevation": "551.00",
+    "stationClimateID": "3071957",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PDO"
+  },
+  {
+    "stationID": "710485",
+    "stationName": "Deer Mountain Auto",
+    "stationLatitude": "54.9134",
+    "stationLongitude": "-115.1621",
+    "stationElevation": "1161.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9084",
+    "stationName": "Del Bonita AGDM",
+    "stationLatitude": "49.0500",
+    "stationLongitude": "-112.8099",
+    "stationElevation": "1310.00",
+    "stationClimateID": "3042045",
+    "stationWMOID": "71224",
+    "stationTransportCanID": "XDB"
+  },
+  {
+    "stationID": "6051",
+    "stationName": "Delburne AGCM",
+    "stationLatitude": "52.1828",
+    "stationLongitude": "-113.1757",
+    "stationElevation": "889.00",
+    "stationClimateID": "3012050",
+    "stationWMOID": "71014",
+    "stationTransportCanID": "PDA"
+  },
+  {
+    "stationID": "10192",
+    "stationName": "Dewberry AGCM",
+    "stationLatitude": "53.6593",
+    "stationLongitude": "-110.5876",
+    "stationElevation": "616.00",
+    "stationClimateID": "3012073",
+    "stationWMOID": "71359",
+    "stationTransportCanID": "PDB"
+  },
+  {
+    "stationID": "11901",
+    "stationName": "Dickson Dam",
+    "stationLatitude": "52.0567",
+    "stationLongitude": "-114.2264",
+    "stationElevation": "980.00",
+    "stationClimateID": "3022078",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "DDA"
+  },
+  {
+    "stationID": "710469",
+    "stationName": "Divide Hills AGCM",
+    "stationLatitude": "52.2085",
+    "stationLongitude": "-113.6133",
+    "stationElevation": "953.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11612",
+    "stationName": "Dogrib Creek",
+    "stationLatitude": "51.6700",
+    "stationLongitude": "-115.5100",
+    "stationElevation": "1981.00",
+    "stationClimateID": "305B0R2",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "DRC"
+  },
+  {
+    "stationID": "11383",
+    "stationName": "Doig Lookout",
+    "stationLatitude": "56.9644",
+    "stationLongitude": "-119.5264",
+    "stationElevation": "1083.00",
+    "stationClimateID": "3072093",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2086",
+    "stationName": "Drumheller East",
+    "stationLatitude": "51.4333",
+    "stationLongitude": "-112.6667",
+    "stationElevation": "678.00",
+    "stationClimateID": "30221LG",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WDZ"
+  },
+  {
+    "stationID": "15425129",
+    "stationName": "Duck Lake AGCM",
+    "stationLatitude": "54.6825",
+    "stationLongitude": "-113.9415",
+    "stationElevation": "650.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64371",
+    "stationName": "Dunkirk Auto",
+    "stationLatitude": "56.7700",
+    "stationLongitude": "-112.4900",
+    "stationElevation": "479.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10347",
+    "stationName": "Dupre AGCM",
+    "stationLatitude": "54.3670",
+    "stationLongitude": "-110.8678",
+    "stationElevation": "556.00",
+    "stationClimateID": "3081690",
+    "stationWMOID": "71414",
+    "stationTransportCanID": "PDU"
+  },
+  {
+    "stationID": "39271000",
+    "stationName": "Eagle Auto",
+    "stationLatitude": "54.4569",
+    "stationLongitude": "-116.4409",
+    "stationElevation": "1048.00",
+    "stationClimateID": "3062150",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9610",
+    "stationName": "Eaglesham AGCM",
+    "stationLatitude": "55.8081",
+    "stationLongitude": "-117.8866",
+    "stationElevation": "563.00",
+    "stationClimateID": "3072151",
+    "stationWMOID": "71461",
+    "stationTransportCanID": "PEL"
+  },
+  {
+    "stationID": "710450",
+    "stationName": "Economy Creek Auto",
+    "stationLatitude": "54.7916",
+    "stationLongitude": "-118.2348",
+    "stationElevation": "857.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710533",
+    "stationName": "Eddy Covariance Research",
+    "stationLatitude": "0.0000",
+    "stationLongitude": "0.0000",
+    "stationElevation": "0.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12321",
+    "stationName": "Edgerton AGCM",
+    "stationLatitude": "52.7778",
+    "stationLongitude": "-110.4328",
+    "stationElevation": "649.00",
+    "stationClimateID": "3012192",
+    "stationWMOID": "71360",
+    "stationTransportCanID": "PEA"
+  },
+  {
+    "stationID": "2104",
+    "stationName": "Edmonton Blatchford",
+    "stationLatitude": "53.5666",
+    "stationLongitude": "-113.5167",
+    "stationElevation": "671.00",
+    "stationClimateID": "3012209",
+    "stationWMOID": "71157",
+    "stationTransportCanID": "XEC"
+  },
+  {
+    "stationID": "2096",
+    "stationName": "Edmonton Int'L CS",
+    "stationLatitude": "53.3166",
+    "stationLongitude": "-113.5833",
+    "stationElevation": "723.00",
+    "stationClimateID": "3012206",
+    "stationWMOID": "71155",
+    "stationTransportCanID": "XEG"
+  },
+  {
+    "stationID": "2091",
+    "stationName": "Edmonton Namao AWOS A",
+    "stationLatitude": "53.6670",
+    "stationLongitude": "-113.4670",
+    "stationElevation": "688.00",
+    "stationClimateID": "3012212",
+    "stationWMOID": "71121",
+    "stationTransportCanID": "YED"
+  },
+  {
+    "stationID": "14494886",
+    "stationName": "Edmonton South Campus UA",
+    "stationLatitude": "53.4901",
+    "stationLongitude": "-113.5378",
+    "stationElevation": "670.00",
+    "stationClimateID": "3012220",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "NES"
+  },
+  {
+    "stationID": "2345",
+    "stationName": "Edmonton Stony Plain CS",
+    "stationLatitude": "53.5500",
+    "stationLongitude": "-114.1167",
+    "stationElevation": "766.00",
+    "stationClimateID": "301A001",
+    "stationWMOID": "71127",
+    "stationTransportCanID": "XPS"
+  },
+  {
+    "stationID": "710459",
+    "stationName": "Edra Auto",
+    "stationLatitude": "57.8479",
+    "stationLongitude": "-113.2525",
+    "stationElevation": "800.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2118",
+    "stationName": "Edson",
+    "stationLatitude": "53.5789",
+    "stationLongitude": "-116.4650",
+    "stationElevation": "925.00",
+    "stationClimateID": "3062239",
+    "stationWMOID": "71167",
+    "stationTransportCanID": "YET"
+  },
+  {
+    "stationID": "2110",
+    "stationName": "Edson Climate",
+    "stationLatitude": "53.5833",
+    "stationLongitude": "-116.4667",
+    "stationElevation": "927.00",
+    "stationClimateID": "3062246",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "ZZJ"
+  },
+  {
+    "stationID": "710403",
+    "stationName": "Elbow Auto",
+    "stationLatitude": "50.9100",
+    "stationLongitude": "-114.6900",
+    "stationElevation": "1413.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12116",
+    "stationName": "Elbow Ranger Station",
+    "stationLatitude": "50.9016",
+    "stationLongitude": "-114.6869",
+    "stationElevation": "1400.00",
+    "stationClimateID": "3052270",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WOK"
+  },
+  {
+    "stationID": "2123",
+    "stationName": "Elk Island Nat Park",
+    "stationLatitude": "53.6833",
+    "stationLongitude": "-112.8667",
+    "stationElevation": "716.00",
+    "stationClimateID": "3012275",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WFE"
+  },
+  {
+    "stationID": "64395",
+    "stationName": "Elk River Auto",
+    "stationLatitude": "52.9700",
+    "stationLongitude": "-115.8600",
+    "stationElevation": "1067.00",
+    "stationClimateID": "3012282",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710460",
+    "stationName": "Ells River Auto",
+    "stationLatitude": "57.2061",
+    "stationLongitude": "-112.3133",
+    "stationElevation": "570.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9942",
+    "stationName": "Enchant IMCIN",
+    "stationLatitude": "50.1720",
+    "stationLongitude": "-112.4364",
+    "stationElevation": "811.61",
+    "stationClimateID": "3032422",
+    "stationWMOID": "71518",
+    "stationTransportCanID": "PEH"
+  },
+  {
+    "stationID": "39273173",
+    "stationName": "Enilda  Auto",
+    "stationLatitude": "55.3190",
+    "stationLongitude": "-116.1970",
+    "stationElevation": "717.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64333",
+    "stationName": "Entrance Auto",
+    "stationLatitude": "53.3800",
+    "stationLongitude": "-117.7000",
+    "stationElevation": "1045.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5765",
+    "stationName": "Esther 1",
+    "stationLatitude": "51.6700",
+    "stationLongitude": "-110.2100",
+    "stationElevation": "707.00",
+    "stationClimateID": "301B460",
+    "stationWMOID": "71240",
+    "stationTransportCanID": "WGY"
+  },
+  {
+    "stationID": "64422",
+    "stationName": "Eta Lake Auto",
+    "stationLatitude": "53.1800",
+    "stationLongitude": "-115.6900",
+    "stationElevation": "927.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9578",
+    "stationName": "Etzikom AGCM",
+    "stationLatitude": "49.5528",
+    "stationLongitude": "-111.0543",
+    "stationElevation": "845.00",
+    "stationClimateID": "3032450",
+    "stationWMOID": "71409",
+    "stationTransportCanID": "PET"
+  },
+  {
+    "stationID": "6100",
+    "stationName": "Eureka River AGCM",
+    "stationLatitude": "56.5094",
+    "stationLongitude": "-118.8444",
+    "stationElevation": "672.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11858",
+    "stationName": "Evan-Thomas Creek",
+    "stationLatitude": "50.7922",
+    "stationLongitude": "-115.0522",
+    "stationElevation": "1341.00",
+    "stationClimateID": "3052D82",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "29556967",
+    "stationName": "Evansburg 2 AGCM",
+    "stationLatitude": "53.6381",
+    "stationLongitude": "-115.0624",
+    "stationElevation": "788.00",
+    "stationClimateID": "3062476",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10362",
+    "stationName": "Evansburg AGCM",
+    "stationLatitude": "53.5732",
+    "stationLongitude": "-115.1236",
+    "stationElevation": "819.00",
+    "stationClimateID": "3062475",
+    "stationWMOID": "71481",
+    "stationTransportCanID": "PEB"
+  },
+  {
+    "stationID": "9457",
+    "stationName": "Fairview AGDM",
+    "stationLatitude": "56.0815",
+    "stationLongitude": "-118.4395",
+    "stationElevation": "655.00",
+    "stationClimateID": "3072525",
+    "stationWMOID": "71347",
+    "stationTransportCanID": "XFR"
+  },
+  {
+    "stationID": "4431",
+    "stationName": "Fallentimber Creek",
+    "stationLatitude": "51.5333",
+    "stationLongitude": "-115.1000",
+    "stationElevation": "1555.00",
+    "stationClimateID": "3052602",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6045",
+    "stationName": "Ferintosh AGCM",
+    "stationLatitude": "52.7438",
+    "stationLongitude": "-112.8580",
+    "stationElevation": "744.00",
+    "stationClimateID": "3012590",
+    "stationWMOID": "71673",
+    "stationTransportCanID": "PFA"
+  },
+  {
+    "stationID": "9986",
+    "stationName": "Fincastle IMCIN",
+    "stationLatitude": "49.8023",
+    "stationLongitude": "-112.0459",
+    "stationElevation": "803.96",
+    "stationClimateID": "3032550",
+    "stationWMOID": "71535",
+    "stationTransportCanID": "PFI"
+  },
+  {
+    "stationID": "7479324",
+    "stationName": "Finnegan AGCM",
+    "stationLatitude": "51.0532",
+    "stationLongitude": "-112.0974",
+    "stationElevation": "739.00",
+    "stationClimateID": "3022650",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710525",
+    "stationName": "Fish Creek Auto",
+    "stationLatitude": "53.4920",
+    "stationLongitude": "-117.6470",
+    "stationElevation": "1373.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710494",
+    "stationName": "Flat Top Auto",
+    "stationLatitude": "55.1457",
+    "stationLongitude": "-114.8153",
+    "stationElevation": "1038.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11366",
+    "stationName": "Flattop Lookout",
+    "stationLatitude": "55.1458",
+    "stationLongitude": "-114.8141",
+    "stationElevation": "1039.00",
+    "stationClimateID": "3062630",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "FTL"
+  },
+  {
+    "stationID": "859591",
+    "stationName": "Fleet AGCM",
+    "stationLatitude": "52.0411",
+    "stationLongitude": "-111.8133",
+    "stationElevation": "823.00",
+    "stationClimateID": "3012635",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PFE"
+  },
+  {
+    "stationID": "710454",
+    "stationName": "Fontas Auto",
+    "stationLatitude": "57.7803",
+    "stationLongitude": "-119.5015",
+    "stationElevation": "1050.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710512",
+    "stationName": "Footner Lake Auto",
+    "stationLatitude": "58.6109",
+    "stationLongitude": "-117.1600",
+    "stationElevation": "330.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9324",
+    "stationName": "Foremost AGDM",
+    "stationLatitude": "49.4833",
+    "stationLongitude": "-111.4861",
+    "stationElevation": "881.00",
+    "stationClimateID": "3032642",
+    "stationWMOID": "71225",
+    "stationTransportCanID": "XFM"
+  },
+  {
+    "stationID": "6042",
+    "stationName": "Forestburg AGCM",
+    "stationLatitude": "52.5484",
+    "stationLongitude": "-112.1234",
+    "stationElevation": "721.00",
+    "stationClimateID": "3012653",
+    "stationWMOID": "71674",
+    "stationTransportCanID": "PFO"
+  },
+  {
+    "stationID": "11762",
+    "stationName": "Forget Me Not Mountain",
+    "stationLatitude": "50.7489",
+    "stationLongitude": "-114.7333",
+    "stationElevation": "1739.00",
+    "stationClimateID": "30526EL",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "FMN"
+  },
+  {
+    "stationID": "9852",
+    "stationName": "Fort Assiniboine AGCM",
+    "stationLatitude": "54.4104",
+    "stationLongitude": "-114.7692",
+    "stationElevation": "676.00",
+    "stationClimateID": "3062660",
+    "stationWMOID": "71483",
+    "stationTransportCanID": "PFB"
+  },
+  {
+    "stationID": "2131",
+    "stationName": "Fort Chipewyan",
+    "stationLatitude": "58.7666",
+    "stationLongitude": "-111.1167",
+    "stationElevation": "232.00",
+    "stationClimateID": "3072655",
+    "stationWMOID": "71305",
+    "stationTransportCanID": "YPY"
+  },
+  {
+    "stationID": "710470",
+    "stationName": "Fort Chipewyan Auto",
+    "stationLatitude": "58.7684",
+    "stationLongitude": "-111.1061",
+    "stationElevation": "231.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "860690",
+    "stationName": "Fort Chipewyan RCS",
+    "stationLatitude": "58.7672",
+    "stationLongitude": "-111.1172",
+    "stationElevation": "238.00",
+    "stationClimateID": "3072659",
+    "stationWMOID": "71056",
+    "stationTransportCanID": "PCH"
+  },
+  {
+    "stationID": "9710",
+    "stationName": "Fort Macleod AGCM",
+    "stationLatitude": "49.7858",
+    "stationLongitude": "-113.3796",
+    "stationElevation": "978.00",
+    "stationClimateID": "3032683",
+    "stationWMOID": "71789",
+    "stationTransportCanID": "PFM"
+  },
+  {
+    "stationID": "2136",
+    "stationName": "Fort Mcmurray A",
+    "stationLatitude": "56.6500",
+    "stationLongitude": "-111.2200",
+    "stationElevation": "369.00",
+    "stationClimateID": "3062697",
+    "stationWMOID": "71689",
+    "stationTransportCanID": "YMM"
+  },
+  {
+    "stationID": "852371",
+    "stationName": "Fort Mcmurray CS",
+    "stationLatitude": "56.6511",
+    "stationLongitude": "-111.2133",
+    "stationElevation": "368.80",
+    "stationClimateID": "3062696",
+    "stationWMOID": "71585",
+    "stationTransportCanID": "XMM"
+  },
+  {
+    "stationID": "2141",
+    "stationName": "Fort Nelson A",
+    "stationLatitude": "58.8333",
+    "stationLongitude": "-122.6000",
+    "stationElevation": "382.00",
+    "stationClimateID": "1192946",
+    "stationWMOID": "71945",
+    "stationTransportCanID": "YYE"
+  },
+  {
+    "stationID": "2146",
+    "stationName": "Fort Smith A",
+    "stationLatitude": "60.0166",
+    "stationLongitude": "-111.9667",
+    "stationElevation": "204.50",
+    "stationClimateID": "2202201",
+    "stationWMOID": "71934",
+    "stationTransportCanID": "YSM"
+  },
+  {
+    "stationID": "710466",
+    "stationName": "Fort Smith Climate",
+    "stationLatitude": "60.0261",
+    "stationLongitude": "-111.9294",
+    "stationElevation": "203.00",
+    "stationClimateID": "2202202",
+    "stationWMOID": "71362",
+    "stationTransportCanID": "ZSM"
+  },
+  {
+    "stationID": "2149",
+    "stationName": "Fort St John A",
+    "stationLatitude": "56.2333",
+    "stationLongitude": "-120.7333",
+    "stationElevation": "695.00",
+    "stationClimateID": "1183001",
+    "stationWMOID": "71943",
+    "stationTransportCanID": "YXJ"
+  },
+  {
+    "stationID": "15639",
+    "stationName": "Fort Vermilion",
+    "stationLatitude": "56.2333",
+    "stationLongitude": "-120.7333",
+    "stationElevation": "695.00",
+    "stationClimateID": "1183001",
+    "stationWMOID": "71943",
+    "stationTransportCanID": "YXJ"
+  },
+  {
+    "stationID": "64432",
+    "stationName": "Fox Creek Auto",
+    "stationLatitude": "54.4000",
+    "stationLongitude": "-116.8000",
+    "stationElevation": "850.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64418",
+    "stationName": "Freeman Auto",
+    "stationLatitude": "54.5700",
+    "stationLongitude": "-115.3800",
+    "stationElevation": "821.00",
+    "stationClimateID": "306BGCQ",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710477",
+    "stationName": "Frying Pan Auto",
+    "stationLatitude": "54.4651",
+    "stationLongitude": "-118.2203",
+    "stationElevation": "855.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2155",
+    "stationName": "Garden River",
+    "stationLatitude": "58.7000",
+    "stationLongitude": "-113.8833",
+    "stationElevation": "241.00",
+    "stationClimateID": "307KPFP",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WGF"
+  },
+  {
+    "stationID": "15460",
+    "stationName": "Gardiner Headwaters",
+    "stationLatitude": "49.3611",
+    "stationLongitude": "-114.5158",
+    "stationElevation": "1970.00",
+    "stationClimateID": "305B769",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15466",
+    "stationName": "Ghost Diversion",
+    "stationLatitude": "51.3000",
+    "stationLongitude": "-115.1333",
+    "stationElevation": "1600.00",
+    "stationClimateID": "3052PP6",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "GHD"
+  },
+  {
+    "stationID": "37198",
+    "stationName": "Ghost Ranger Station",
+    "stationLatitude": "51.3234",
+    "stationLongitude": "-114.9597",
+    "stationElevation": "1472.25",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273138",
+    "stationName": "Gift Lake Auto",
+    "stationLatitude": "55.9012",
+    "stationLongitude": "-115.7600",
+    "stationElevation": "691.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10210",
+    "stationName": "Gilt Edge North AGCM",
+    "stationLatitude": "53.0710",
+    "stationLongitude": "-110.6210",
+    "stationElevation": "647.00",
+    "stationClimateID": "3012790",
+    "stationWMOID": "71791",
+    "stationTransportCanID": "PGE"
+  },
+  {
+    "stationID": "859718",
+    "stationName": "Gladstone AGCM",
+    "stationLatitude": "52.9875",
+    "stationLongitude": "-112.2783",
+    "stationElevation": "704.00",
+    "stationClimateID": "3012810",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PGT"
+  },
+  {
+    "stationID": "10500",
+    "stationName": "Gleichen AGCM",
+    "stationLatitude": "50.9345",
+    "stationLongitude": "-112.9408",
+    "stationElevation": "907.00",
+    "stationClimateID": "3032801",
+    "stationWMOID": "71498",
+    "stationTransportCanID": "PGI"
+  },
+  {
+    "stationID": "10377",
+    "stationName": "Glenevis AGCM",
+    "stationLatitude": "53.8326",
+    "stationLongitude": "-114.5390",
+    "stationElevation": "670.00",
+    "stationClimateID": "3012818",
+    "stationWMOID": "71500",
+    "stationTransportCanID": "PGC"
+  },
+  {
+    "stationID": "11461",
+    "stationName": "Goathaunt",
+    "stationLatitude": "48.9567",
+    "stationLongitude": "-113.8903",
+    "stationElevation": "1280.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "GHU"
+  },
+  {
+    "stationID": "11476",
+    "stationName": "Goose Mountain Lookout - AFS GM",
+    "stationLatitude": "54.7506",
+    "stationLongitude": "-116.0332",
+    "stationElevation": "1385.00",
+    "stationClimateID": "3062880",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "GML"
+  },
+  {
+    "stationID": "859622",
+    "stationName": "Gooseberry Lake AGCM",
+    "stationLatitude": "52.1131",
+    "stationLongitude": "-110.8025",
+    "stationElevation": "740.00",
+    "stationClimateID": "3012871",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PGB"
+  },
+  {
+    "stationID": "5590",
+    "stationName": "Gordon Lake Lookout",
+    "stationLatitude": "56.6175",
+    "stationLongitude": "-110.4944",
+    "stationElevation": "515.00",
+    "stationClimateID": "3062889",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64322",
+    "stationName": "Grande Cache Auto",
+    "stationLatitude": "53.9200",
+    "stationLongitude": "-118.8700",
+    "stationElevation": "1250.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2163",
+    "stationName": "Grande Prairie A",
+    "stationLatitude": "55.1800",
+    "stationLongitude": "-118.8847",
+    "stationElevation": "669.00",
+    "stationClimateID": "3072921",
+    "stationWMOID": "71940",
+    "stationTransportCanID": "YQU"
+  },
+  {
+    "stationID": "9918",
+    "stationName": "Grassy Lake IMCIN",
+    "stationLatitude": "49.8737",
+    "stationLongitude": "-111.7328",
+    "stationElevation": "783.00",
+    "stationClimateID": "3032927",
+    "stationWMOID": "71788",
+    "stationTransportCanID": "PGL"
+  },
+  {
+    "stationID": "5416",
+    "stationName": "Greencourt",
+    "stationLatitude": "54.0139",
+    "stationLongitude": "-115.2139",
+    "stationElevation": "739.00",
+    "stationClimateID": "3062946",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64368",
+    "stationName": "Ground Zero Auto",
+    "stationLatitude": "55.0100",
+    "stationLongitude": "-110.6100",
+    "stationElevation": "737.00",
+    "stationClimateID": "3062968",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6057",
+    "stationName": "Halkirk AGCM",
+    "stationLatitude": "55.0100",
+    "stationLongitude": "-110.6100",
+    "stationElevation": "737.00",
+    "stationClimateID": "3062968",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "540406",
+    "stationName": "Hand Hills AGCM",
+    "stationLatitude": "51.4525",
+    "stationLongitude": "-112.1352",
+    "stationElevation": "941.00",
+    "stationClimateID": "3022990",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PXH"
+  },
+  {
+    "stationID": "9212",
+    "stationName": "Hawk Hills AGCM",
+    "stationLatitude": "57.2647",
+    "stationLongitude": "-117.2977",
+    "stationElevation": "455.00",
+    "stationClimateID": "3073071",
+    "stationWMOID": "71507",
+    "stationTransportCanID": "PHW"
+  },
+  {
+    "stationID": "710497",
+    "stationName": "Hawk Hills Auto",
+    "stationLatitude": "57.6568",
+    "stationLongitude": "-117.4232",
+    "stationElevation": "730.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5413037",
+    "stationName": "Hazel AGCM",
+    "stationLatitude": "56.5291",
+    "stationLongitude": "-117.9336",
+    "stationElevation": "672.00",
+    "stationClimateID": "3071661",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39271015",
+    "stationName": "Heart Lake Auto",
+    "stationLatitude": "54.9150",
+    "stationLongitude": "-111.3400",
+    "stationElevation": "866.00",
+    "stationClimateID": "3063120",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10452",
+    "stationName": "Hemaruka AGCM",
+    "stationLatitude": "51.7799",
+    "stationLongitude": "-111.2120",
+    "stationElevation": "780.00",
+    "stationClimateID": "3013140",
+    "stationWMOID": "71793",
+    "stationTransportCanID": "PHE"
+  },
+  {
+    "stationID": "4461",
+    "stationName": "Hendrickson Creek",
+    "stationLatitude": "53.8000",
+    "stationLongitude": "-118.4500",
+    "stationElevation": "1448.00",
+    "stationClimateID": "3063135",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WPA"
+  },
+  {
+    "stationID": "10534",
+    "stationName": "Hespero AGCM",
+    "stationLatitude": "52.3102",
+    "stationLongitude": "-114.4858",
+    "stationElevation": "965.00",
+    "stationClimateID": "3023200",
+    "stationWMOID": "71540",
+    "stationTransportCanID": "PHR"
+  },
+  {
+    "stationID": "2168",
+    "stationName": "High Level",
+    "stationLatitude": "58.6217",
+    "stationLongitude": "-117.1647",
+    "stationElevation": "338.00",
+    "stationClimateID": "3073140",
+    "stationWMOID": "71066",
+    "stationTransportCanID": "YOJ"
+  },
+  {
+    "stationID": "710531",
+    "stationName": "High Level RCS",
+    "stationLatitude": "58.6314",
+    "stationLongitude": "-117.1637",
+    "stationElevation": "339.00",
+    "stationClimateID": "3073148",
+    "stationWMOID": "73085",
+    "stationTransportCanID": "PHJ"
+  },
+  {
+    "stationID": "11634",
+    "stationName": "High Prairie - Banana Belt",
+    "stationLatitude": "55.1630",
+    "stationLongitude": "-116.4152",
+    "stationElevation": "690.00",
+    "stationClimateID": "3063167",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9726",
+    "stationName": "High Prairie AGDM",
+    "stationLatitude": "55.3949",
+    "stationLongitude": "-116.4831",
+    "stationElevation": "591.00",
+    "stationClimateID": "3063165",
+    "stationWMOID": "71226",
+    "stationTransportCanID": "XHP"
+  },
+  {
+    "stationID": "45248",
+    "stationName": "Highwood Auto",
+    "stationLatitude": "50.4100",
+    "stationLongitude": "-114.7300",
+    "stationElevation": "1576.00",
+    "stationClimateID": "3053250",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6015",
+    "stationName": "Holden AGDM",
+    "stationLatitude": "53.1852",
+    "stationLongitude": "-112.2462",
+    "stationElevation": "688.00",
+    "stationClimateID": "3013340",
+    "stationWMOID": "71227",
+    "stationTransportCanID": "XHD"
+  },
+  {
+    "stationID": "710473",
+    "stationName": "Homestead Coulee AGCM",
+    "stationLatitude": "51.2721",
+    "stationLongitude": "-111.8383",
+    "stationElevation": "1069.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "1502",
+    "stationName": "Horizon",
+    "stationLatitude": "57.3838",
+    "stationLongitude": "-111.9419",
+    "stationElevation": "0.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "860750",
+    "stationName": "Hoselaw AGCM",
+    "stationLatitude": "54.1860",
+    "stationLongitude": "-110.9217",
+    "stationElevation": "588.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710455",
+    "stationName": "Hotchkiss Auto",
+    "stationLatitude": "57.3339",
+    "stationLongitude": "-118.9593",
+    "stationElevation": "990.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11494",
+    "stationName": "House Mountain Lookout -AFS HM",
+    "stationLatitude": "55.0473",
+    "stationLongitude": "-115.6016",
+    "stationElevation": "1176.00",
+    "stationClimateID": "3063347",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "HML"
+  },
+  {
+    "stationID": "710526",
+    "stationName": "Huckleberry Auto",
+    "stationLatitude": "53.9810",
+    "stationLongitude": "-118.1800",
+    "stationElevation": "1431.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6026",
+    "stationName": "Hughenden AGCM",
+    "stationLatitude": "52.5782",
+    "stationLongitude": "-110.7837",
+    "stationElevation": "703.00",
+    "stationClimateID": "3013362",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PHU"
+  },
+  {
+    "stationID": "11071",
+    "stationName": "Hussar AGDM",
+    "stationLatitude": "51.1911",
+    "stationLongitude": "-112.5027",
+    "stationElevation": "971.00",
+    "stationClimateID": "3023402",
+    "stationWMOID": "71344",
+    "stationTransportCanID": "XHR"
+  },
+  {
+    "stationID": "710474",
+    "stationName": "Iddesleigh AGCM",
+    "stationLatitude": "50.6800",
+    "stationLongitude": "-111.3086",
+    "stationElevation": "806.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "31425714",
+    "stationName": "Imperial Auto",
+    "stationLatitude": "54.4666",
+    "stationLongitude": "-115.5722",
+    "stationElevation": "1202.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9883",
+    "stationName": "Iron Springs IMCIN",
+    "stationLatitude": "49.9005",
+    "stationLongitude": "-112.7452",
+    "stationElevation": "893.10",
+    "stationClimateID": "3033498",
+    "stationWMOID": "71528",
+    "stationTransportCanID": "PIR"
+  },
+  {
+    "stationID": "9609",
+    "stationName": "Irvine AGCM",
+    "stationLatitude": "49.9893",
+    "stationLongitude": "-110.2615",
+    "stationElevation": "795.00",
+    "stationClimateID": "3033550",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PIA"
+  },
+  {
+    "stationID": "15873190",
+    "stationName": "Island Lake South",
+    "stationLatitude": "54.8210",
+    "stationLongitude": "-113.5436",
+    "stationElevation": "618.70",
+    "stationClimateID": "3063600",
+    "stationWMOID": "71654",
+    "stationTransportCanID": "PII"
+  },
+  {
+    "stationID": "64386",
+    "stationName": "Jackpine AUTO",
+    "stationLatitude": "56.8800",
+    "stationLongitude": "-116.5600",
+    "stationElevation": "663.00",
+    "stationClimateID": "3073511",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11576",
+    "stationName": "James River Headwaters",
+    "stationLatitude": "51.7666",
+    "stationLongitude": "-115.3167",
+    "stationElevation": "1463.00",
+    "stationClimateID": "3053512",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "JRH"
+  },
+  {
+    "stationID": "2173",
+    "stationName": "James River Ranger Station",
+    "stationLatitude": "51.8892",
+    "stationLongitude": "-114.9939",
+    "stationElevation": "1200.00",
+    "stationClimateID": "3023513",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "JRR"
+  },
+  {
+    "stationID": "4279",
+    "stationName": "Jasper Warden",
+    "stationLatitude": "52.9300",
+    "stationLongitude": "-118.0300",
+    "stationElevation": "1020.00",
+    "stationClimateID": "3053536",
+    "stationWMOID": "71486",
+    "stationTransportCanID": "WJW"
+  },
+  {
+    "stationID": "9512",
+    "stationName": "Jean Cote AGCM",
+    "stationLatitude": "52.9300",
+    "stationLongitude": "-118.0300",
+    "stationElevation": "1020.00",
+    "stationClimateID": "3053536",
+    "stationWMOID": "71486",
+    "stationTransportCanID": "WJW"
+  },
+  {
+    "stationID": "710511",
+    "stationName": "Jean Lake Auto",
+    "stationLatitude": "57.4974",
+    "stationLongitude": "-113.8835",
+    "stationElevation": "745.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11679",
+    "stationName": "Job Creek",
+    "stationLatitude": "52.3500",
+    "stationLongitude": "-116.7833",
+    "stationElevation": "2005.00",
+    "stationClimateID": "3053552",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "JBC"
+  },
+  {
+    "stationID": "710461",
+    "stationName": "Johnson Lake Auto",
+    "stationLatitude": "57.5749",
+    "stationLongitude": "-110.3288",
+    "stationElevation": "590.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "37201",
+    "stationName": "Jumpingpound Ranger Station",
+    "stationLatitude": "51.0400",
+    "stationLongitude": "-114.7347",
+    "stationElevation": "1378.96",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64357",
+    "stationName": "Kakwa Auto",
+    "stationLatitude": "54.1800",
+    "stationLongitude": "-119.0600",
+    "stationElevation": "1344.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710498",
+    "stationName": "Kakwa Tower Auto",
+    "stationLatitude": "54.4209",
+    "stationLongitude": "-118.9822",
+    "stationElevation": "1226.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "45452",
+    "stationName": "Kananaskis Boundary Auto",
+    "stationLatitude": "50.9300",
+    "stationLongitude": "-115.1200",
+    "stationElevation": "1464.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64375",
+    "stationName": "Keane Auto",
+    "stationLatitude": "58.3100",
+    "stationLongitude": "-110.2800",
+    "stationElevation": "337.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710468",
+    "stationName": "Keg Auto",
+    "stationLatitude": "57.6404",
+    "stationLongitude": "-118.3527",
+    "stationElevation": "950.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5924044",
+    "stationName": "Keg River AGCM",
+    "stationLatitude": "57.7876",
+    "stationLongitude": "-117.6767",
+    "stationElevation": "408.00",
+    "stationClimateID": "3073644",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PKG"
+  },
+  {
+    "stationID": "674815",
+    "stationName": "Keoma AGCM",
+    "stationLatitude": "51.1906",
+    "stationLongitude": "-113.6306",
+    "stationElevation": "945.00",
+    "stationClimateID": "3033620",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PKO"
+  },
+  {
+    "stationID": "6003",
+    "stationName": "Kessler AGCM",
+    "stationLatitude": "52.2902",
+    "stationLongitude": "-111.1132",
+    "stationElevation": "720.00",
+    "stationClimateID": "3013644",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PKA"
+  },
+  {
+    "stationID": "710532",
+    "stationName": "Ketchum Creek AGCM",
+    "stationLatitude": "49.2315",
+    "stationLongitude": "-110.7686",
+    "stationElevation": "611.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5156",
+    "stationName": "Killam AGDM",
+    "stationLatitude": "52.8475",
+    "stationLongitude": "-111.8723",
+    "stationElevation": "687.00",
+    "stationClimateID": "3013640",
+    "stationWMOID": "71228",
+    "stationTransportCanID": "XKM"
+  },
+  {
+    "stationID": "710465",
+    "stationName": "Kimiwan Auto",
+    "stationLatitude": "55.9940",
+    "stationLongitude": "-116.6066",
+    "stationElevation": "770.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "20889591",
+    "stationName": "Kinikinik AGCM",
+    "stationLatitude": "54.5633",
+    "stationLongitude": "-112.9812",
+    "stationElevation": "634.00",
+    "stationClimateID": "3063640",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "7290",
+    "stationName": "Kinsella Research",
+    "stationLatitude": "53.0469",
+    "stationLongitude": "-111.5473",
+    "stationElevation": "696.00",
+    "stationClimateID": "3013647",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PKR"
+  },
+  {
+    "stationID": "64412",
+    "stationName": "Kinuso Auto",
+    "stationLatitude": "55.3000",
+    "stationLongitude": "-115.4900",
+    "stationElevation": "611.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39271030",
+    "stationName": "Kirby Lake Auto",
+    "stationLatitude": "55.3585",
+    "stationLongitude": "-110.6450",
+    "stationElevation": "690.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "859574",
+    "stationName": "Kirriemuir AGCM",
+    "stationLatitude": "51.9133",
+    "stationLongitude": "-110.3592",
+    "stationElevation": "711.00",
+    "stationClimateID": "3023660",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PZK"
+  },
+  {
+    "stationID": "10231",
+    "stationName": "Kitscoty AGCM",
+    "stationLatitude": "53.3534",
+    "stationLongitude": "-110.4161",
+    "stationElevation": "664.00",
+    "stationClimateID": "3013660",
+    "stationWMOID": "71797",
+    "stationTransportCanID": "PKI"
+  },
+  {
+    "stationID": "64398",
+    "stationName": "Kootenay Plains Auto",
+    "stationLatitude": "52.0600",
+    "stationLongitude": "-116.4100",
+    "stationElevation": "1294.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9187",
+    "stationName": "La Crete AGCM",
+    "stationLatitude": "58.1721",
+    "stationLongitude": "-116.3428",
+    "stationElevation": "320.00",
+    "stationClimateID": "3073730",
+    "stationWMOID": "71542",
+    "stationTransportCanID": "PLC"
+  },
+  {
+    "stationID": "9680",
+    "stationName": "La Glace AGCM",
+    "stationLatitude": "55.4219",
+    "stationLongitude": "-119.2547",
+    "stationElevation": "760.00",
+    "stationClimateID": "3073740",
+    "stationWMOID": "71543",
+    "stationTransportCanID": "PLG"
+  },
+  {
+    "stationID": "2183",
+    "stationName": "Lac La Biche Climate",
+    "stationLatitude": "54.7667",
+    "stationLongitude": "-112.0167",
+    "stationElevation": "597.00",
+    "stationClimateID": "3063686",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WLB"
+  },
+  {
+    "stationID": "15643",
+    "stationName": "Lacombe CDA 2",
+    "stationLatitude": "52.4491",
+    "stationLongitude": "-113.7562",
+    "stationElevation": "860.00",
+    "stationClimateID": "3023722",
+    "stationWMOID": "71242",
+    "stationTransportCanID": "WQQ"
+  },
+  {
+    "stationID": "2219",
+    "stationName": "Lake Louise",
+    "stationLatitude": "51.4333",
+    "stationLongitude": "-116.2167",
+    "stationElevation": "1524.00",
+    "stationClimateID": "3053760",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "LLS"
+  },
+  {
+    "stationID": "64346",
+    "stationName": "Lambert Auto",
+    "stationLatitude": "58.0300",
+    "stationLongitude": "-114.1400",
+    "stationElevation": "368.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "859646",
+    "stationName": "Lathom AGCM",
+    "stationLatitude": "50.6004",
+    "stationLongitude": "-112.2990",
+    "stationElevation": "810.00",
+    "stationClimateID": "3033770",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PZL"
+  },
+  {
+    "stationID": "2224",
+    "stationName": "Lee Creek 99",
+    "stationLatitude": "49.0028",
+    "stationLongitude": "-113.5439",
+    "stationElevation": "1494.00",
+    "stationClimateID": "3033782",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "LEE"
+  },
+  {
+    "stationID": "12061",
+    "stationName": "Leedale AGDM",
+    "stationLatitude": "52.5531",
+    "stationLongitude": "-114.4725",
+    "stationElevation": "947.00",
+    "stationClimateID": "3023740",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "NLD"
+  },
+  {
+    "stationID": "10390",
+    "stationName": "Legal AGCM",
+    "stationLatitude": "54.0030",
+    "stationLongitude": "-113.4744",
+    "stationElevation": "680.00",
+    "stationClimateID": "3013790",
+    "stationWMOID": "71544",
+    "stationTransportCanID": "PLF"
+  },
+  {
+    "stationID": "710499",
+    "stationName": "Legend Auto",
+    "stationLatitude": "57.4504",
+    "stationLongitude": "-112.8793",
+    "stationElevation": "855.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39271045",
+    "stationName": "Leismer Auto",
+    "stationLatitude": "55.6897",
+    "stationLongitude": "-111.2847",
+    "stationElevation": "583.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2249",
+    "stationName": "Lethbridge",
+    "stationLatitude": "49.6333",
+    "stationLongitude": "-112.8000",
+    "stationElevation": "929.00",
+    "stationClimateID": "3033875",
+    "stationWMOID": "71267",
+    "stationTransportCanID": "YQL"
+  },
+  {
+    "stationID": "2154",
+    "stationName": "Lethbridge CDA",
+    "stationLatitude": "49.7000",
+    "stationLongitude": "-112.7833",
+    "stationElevation": "921.00",
+    "stationClimateID": "3033890",
+    "stationWMOID": "71243",
+    "stationTransportCanID": "WQL"
+  },
+  {
+    "stationID": "9835",
+    "stationName": "Lethbridge Demo Farm IMCIN",
+    "stationLatitude": "49.6867",
+    "stationLongitude": "-112.7449",
+    "stationElevation": "906.87",
+    "stationClimateID": "3033897",
+    "stationWMOID": "71509",
+    "stationTransportCanID": "PQL"
+  },
+  {
+    "stationID": "4483",
+    "stationName": "Limestone Mountain",
+    "stationLatitude": "51.8942",
+    "stationLongitude": "-115.3833",
+    "stationElevation": "1988.00",
+    "stationClimateID": "3053908",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10820",
+    "stationName": "Lindbergh AGDM",
+    "stationLatitude": "53.9430",
+    "stationLongitude": "-110.5789",
+    "stationElevation": "648.00",
+    "stationClimateID": "3013921",
+    "stationWMOID": "71567",
+    "stationTransportCanID": "NLB"
+  },
+  {
+    "stationID": "11330",
+    "stationName": "Linden AGCM",
+    "stationLatitude": "51.6191",
+    "stationLongitude": "-113.6558",
+    "stationElevation": "914.00",
+    "stationClimateID": "3023850",
+    "stationWMOID": "71035",
+    "stationTransportCanID": "PLA"
+  },
+  {
+    "stationID": "11843",
+    "stationName": "Little Elbow Summit",
+    "stationLatitude": "50.8220",
+    "stationLongitude": "-114.9889",
+    "stationElevation": "2120.00",
+    "stationClimateID": "305LRKB",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11704",
+    "stationName": "Little Paddle Headwaters",
+    "stationLatitude": "54.0166",
+    "stationLongitude": "-115.5000",
+    "stationElevation": "885.00",
+    "stationClimateID": "3063R2L",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "LPH"
+  },
+  {
+    "stationID": "64250",
+    "stationName": "Livingston Gap Auto",
+    "stationLatitude": "49.8800",
+    "stationLongitude": "-114.3800",
+    "stationElevation": "1403.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11991",
+    "stationName": "Livingstone",
+    "stationLatitude": "50.0500",
+    "stationLongitude": "-114.4277",
+    "stationElevation": "1417.00",
+    "stationClimateID": "305L9K4",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "LSA"
+  },
+  {
+    "stationID": "2197",
+    "stationName": "Lloydminster",
+    "stationLatitude": "53.3092",
+    "stationLongitude": "-110.0725",
+    "stationElevation": "668.70",
+    "stationClimateID": "3013959",
+    "stationWMOID": "71871",
+    "stationTransportCanID": "YLL"
+  },
+  {
+    "stationID": "2092051",
+    "stationName": "Lodge Creek AGCM",
+    "stationLatitude": "49.4577",
+    "stationLongitude": "-110.3412",
+    "stationElevation": "1059.00",
+    "stationClimateID": "3023900",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PLZ"
+  },
+  {
+    "stationID": "64415",
+    "stationName": "Loon River Auto",
+    "stationLatitude": "57.1400",
+    "stationLongitude": "-115.0800",
+    "stationElevation": "455.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15528",
+    "stationName": "Lost Creek South",
+    "stationLatitude": "50.1738",
+    "stationLongitude": "-114.7100",
+    "stationElevation": "2130.00",
+    "stationClimateID": "3053988",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710527",
+    "stationName": "Lovett Auto",
+    "stationLatitude": "53.0311",
+    "stationLongitude": "-116.6620",
+    "stationElevation": "1476.61",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "37178",
+    "stationName": "Luscar Creek",
+    "stationLatitude": "53.0568",
+    "stationLongitude": "-117.3346",
+    "stationElevation": "1518.98",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15680",
+    "stationName": "Magee Lake",
+    "stationLatitude": "52.6150",
+    "stationLongitude": "-113.4097",
+    "stationElevation": "891.00",
+    "stationClimateID": "3014154",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "MGL"
+  },
+  {
+    "stationID": "9210",
+    "stationName": "Manning AGDM",
+    "stationLatitude": "56.9738",
+    "stationLongitude": "-117.4508",
+    "stationElevation": "457.00",
+    "stationClimateID": "3074190",
+    "stationWMOID": "71229",
+    "stationTransportCanID": "XMG"
+  },
+  {
+    "stationID": "5191",
+    "stationName": "Mannville AGCM",
+    "stationLatitude": "53.4557",
+    "stationLongitude": "-111.2555",
+    "stationElevation": "656.00",
+    "stationClimateID": "3014195",
+    "stationWMOID": "71047",
+    "stationTransportCanID": "PMA"
+  },
+  {
+    "stationID": "9526",
+    "stationName": "Manyberries AGCM",
+    "stationLatitude": "49.3638",
+    "stationLongitude": "-110.6781",
+    "stationElevation": "927.00",
+    "stationClimateID": "3044203",
+    "stationWMOID": "71051",
+    "stationTransportCanID": "PMB"
+  },
+  {
+    "stationID": "64406",
+    "stationName": "Marten Hills AUTO",
+    "stationLatitude": "55.5300",
+    "stationLongitude": "-114.5600",
+    "stationElevation": "1000.00",
+    "stationClimateID": "3064219",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9269",
+    "stationName": "Masinasin AGDM",
+    "stationLatitude": "49.1260",
+    "stationLongitude": "-111.6549",
+    "stationElevation": "960.00",
+    "stationClimateID": "3044232",
+    "stationWMOID": "71345",
+    "stationTransportCanID": "XMN"
+  },
+  {
+    "stationID": "39271060",
+    "stationName": "May Auto",
+    "stationLatitude": "55.5623",
+    "stationLongitude": "-112.4049",
+    "stationElevation": "866.00",
+    "stationClimateID": "3064300",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710528",
+    "stationName": "Mayberne Auto",
+    "stationLatitude": "53.8600",
+    "stationLongitude": "-116.6580",
+    "stationElevation": "1453.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15685",
+    "stationName": "Mayerthorpe",
+    "stationLatitude": "53.8583",
+    "stationLongitude": "-115.3556",
+    "stationElevation": "760.00",
+    "stationClimateID": "3064284",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2229",
+    "stationName": "Medicine Hat",
+    "stationLatitude": "50.0166",
+    "stationLongitude": "-110.7167",
+    "stationElevation": "717.00",
+    "stationClimateID": "3034479",
+    "stationWMOID": "71247",
+    "stationTransportCanID": "YXH"
+  },
+  {
+    "stationID": "2262",
+    "stationName": "Medicine Hat RCS",
+    "stationLatitude": "50.0333",
+    "stationLongitude": "-110.7167",
+    "stationElevation": "717.00",
+    "stationClimateID": "3034485",
+    "stationWMOID": "71026",
+    "stationTransportCanID": "XMW"
+  },
+  {
+    "stationID": "11980",
+    "stationName": "Medicine Lodge",
+    "stationLatitude": "49.6333",
+    "stationLongitude": "-110.3167",
+    "stationElevation": "1402.00",
+    "stationClimateID": "3034489",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "MDL"
+  },
+  {
+    "stationID": "710516",
+    "stationName": "Medicine Lodge Auto",
+    "stationLatitude": "53.5520",
+    "stationLongitude": "-116.9680",
+    "stationElevation": "1138.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64426",
+    "stationName": "Meekwap Auto",
+    "stationLatitude": "54.6200",
+    "stationLongitude": "-116.6600",
+    "stationElevation": "836.00",
+    "stationClimateID": "3074494",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2274",
+    "stationName": "Mildred Lake",
+    "stationLatitude": "57.0333",
+    "stationLongitude": "-111.5667",
+    "stationElevation": "310.00",
+    "stationClimateID": "3064528",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WMX"
+  },
+  {
+    "stationID": "2283",
+    "stationName": "Milk River",
+    "stationLatitude": "49.1333",
+    "stationLongitude": "-112.0500",
+    "stationElevation": "1050.00",
+    "stationClimateID": "3044533",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WRY"
+  },
+  {
+    "stationID": "11506",
+    "stationName": "Milk River Ridge",
+    "stationLatitude": "49.2252",
+    "stationLongitude": "-112.8472",
+    "stationElevation": "1200.90",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15328",
+    "stationName": "Milk River Ridge Reservoir",
+    "stationLatitude": "49.2838",
+    "stationLongitude": "-112.5383",
+    "stationElevation": "1305.00",
+    "stationClimateID": "3044545",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PRR"
+  },
+  {
+    "stationID": "64361",
+    "stationName": "Mistanusk Auto",
+    "stationLatitude": "54.5900",
+    "stationLongitude": "-120.0100",
+    "stationElevation": "1112.00",
+    "stationClimateID": "3074582",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710517",
+    "stationName": "Moberly Auto",
+    "stationLatitude": "53.5300",
+    "stationLongitude": "-118.0180",
+    "stationElevation": "1674.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11097",
+    "stationName": "Morrin AGDM",
+    "stationLatitude": "51.6600",
+    "stationLongitude": "-112.6746",
+    "stationElevation": "836.00",
+    "stationClimateID": "3024668",
+    "stationWMOID": "71257",
+    "stationTransportCanID": "XMO"
+  },
+  {
+    "stationID": "10067",
+    "stationName": "Mossleigh AGCM",
+    "stationLatitude": "50.6726",
+    "stationLongitude": "-113.3487",
+    "stationElevation": "965.00",
+    "stationClimateID": "3034577",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PML"
+  },
+  {
+    "stationID": "11831",
+    "stationName": "Mount Odlum III",
+    "stationLatitude": "50.4833",
+    "stationLongitude": "-114.9000",
+    "stationElevation": "2060.00",
+    "stationClimateID": "3054733",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "MO3"
+  },
+  {
+    "stationID": "10849",
+    "stationName": "Mundare AGDM",
+    "stationLatitude": "50.4833",
+    "stationLongitude": "-114.9000",
+    "stationElevation": "2060.00",
+    "stationClimateID": "3054733",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "MO3"
+  },
+  {
+    "stationID": "710462",
+    "stationName": "Muskeg Mountain Auto",
+    "stationLatitude": "57.1353",
+    "stationLongitude": "-110.8942",
+    "stationElevation": "610.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273190",
+    "stationName": "Muskwa  Auto",
+    "stationLatitude": "56.0815",
+    "stationLongitude": "-114.6548",
+    "stationElevation": "681.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10402",
+    "stationName": "Myrnam AGCM",
+    "stationLatitude": "53.7202",
+    "stationLongitude": "-111.1145",
+    "stationElevation": "580.00",
+    "stationClimateID": "3014690",
+    "stationWMOID": "71065",
+    "stationTransportCanID": "PMN"
+  },
+  {
+    "stationID": "12040",
+    "stationName": "Neir AGDM",
+    "stationLatitude": "51.3693",
+    "stationLongitude": "-114.0994",
+    "stationElevation": "1145.00",
+    "stationClimateID": "3034795",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "NNR"
+  },
+  {
+    "stationID": "10256",
+    "stationName": "New Sarepta AGCM",
+    "stationLatitude": "53.2624",
+    "stationLongitude": "-113.1651",
+    "stationElevation": "765.00",
+    "stationClimateID": "3014795",
+    "stationWMOID": "71067",
+    "stationTransportCanID": "PNS"
+  },
+  {
+    "stationID": "4508",
+    "stationName": "Nordegg CS",
+    "stationLatitude": "52.4667",
+    "stationLongitude": "-116.0833",
+    "stationElevation": "1362.00",
+    "stationClimateID": "3054843",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XND"
+  },
+  {
+    "stationID": "64240",
+    "stationName": "North Ghost Auto",
+    "stationLatitude": "51.5700",
+    "stationLongitude": "-114.8600",
+    "stationElevation": "1477.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710456",
+    "stationName": "Notikewin Auto",
+    "stationLatitude": "56.8690",
+    "stationLongitude": "-118.5990",
+    "stationElevation": "940.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11450",
+    "stationName": "Notikewin LO",
+    "stationLatitude": "56.8686",
+    "stationLongitude": "-118.5981",
+    "stationElevation": "937.00",
+    "stationClimateID": "3074900",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11122",
+    "stationName": "Olds College AGDM",
+    "stationLatitude": "51.7586",
+    "stationLongitude": "-114.0846",
+    "stationElevation": "1046.00",
+    "stationClimateID": "3024925",
+    "stationWMOID": "71258",
+    "stationTransportCanID": "XOL"
+  },
+  {
+    "stationID": "10880",
+    "stationName": "Oliver AGDM",
+    "stationLatitude": "53.6466",
+    "stationLongitude": "-113.3546",
+    "stationElevation": "665.00",
+    "stationClimateID": "3014921",
+    "stationWMOID": "71351",
+    "stationTransportCanID": "ZOL"
+  },
+  {
+    "stationID": "15660",
+    "stationName": "Onefour CDA",
+    "stationLatitude": "49.1166",
+    "stationLongitude": "-110.4667",
+    "stationElevation": "935.00",
+    "stationClimateID": "3044923",
+    "stationWMOID": "71116",
+    "stationTransportCanID": "WOE"
+  },
+  {
+    "stationID": "39273208",
+    "stationName": "Otter Lakes Auto",
+    "stationLatitude": "56.6974",
+    "stationLongitude": "-115.9231",
+    "stationElevation": "784.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11128",
+    "stationName": "Oyen AGDM",
+    "stationLatitude": "51.3797",
+    "stationLongitude": "-110.3552",
+    "stationElevation": "767.00",
+    "stationClimateID": "3024965",
+    "stationWMOID": "71342",
+    "stationTransportCanID": "XOY"
+  },
+  {
+    "stationID": "5436",
+    "stationName": "Paddle Dam",
+    "stationLatitude": "53.8961",
+    "stationLongitude": "-115.0781",
+    "stationElevation": "701.00",
+    "stationClimateID": "3064968",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11904",
+    "stationName": "Paddle River Headwaters",
+    "stationLatitude": "53.8689",
+    "stationLongitude": "-115.5431",
+    "stationElevation": "885.00",
+    "stationClimateID": "3064970",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9493",
+    "stationName": "Pakowki Lake AGCM",
+    "stationLatitude": "49.2248",
+    "stationLongitude": "-111.1262",
+    "stationElevation": "915.00",
+    "stationClimateID": "3045000",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PPL"
+  },
+  {
+    "stationID": "39273087",
+    "stationName": "Panny Auto",
+    "stationLatitude": "57.1780",
+    "stationLongitude": "-114.6140",
+    "stationElevation": "625.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2553",
+    "stationName": "Parlby Creek near Mirror",
+    "stationLatitude": "52.4939",
+    "stationLongitude": "-113.1078",
+    "stationElevation": "785.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11887",
+    "stationName": "Pasque Creek",
+    "stationLatitude": "50.1000",
+    "stationLongitude": "-114.6080",
+    "stationElevation": "1810.00",
+    "stationClimateID": "3054R99",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PQC"
+  },
+  {
+    "stationID": "31425798",
+    "stationName": "Pass Creek Auto",
+    "stationLatitude": "54.2289",
+    "stationLongitude": "-116.8400",
+    "stationElevation": "1080.70",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "540420",
+    "stationName": "Patricia AGCM",
+    "stationLatitude": "50.7402",
+    "stationLongitude": "-111.6210",
+    "stationElevation": "726.00",
+    "stationClimateID": "3025013",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PPT"
+  },
+  {
+    "stationID": "2299",
+    "stationName": "Peace River A",
+    "stationLatitude": "56.2272",
+    "stationLongitude": "-117.4483",
+    "stationElevation": "571.00",
+    "stationClimateID": "3075041",
+    "stationWMOID": "71068",
+    "stationTransportCanID": "YPE"
+  },
+  {
+    "stationID": "32594910",
+    "stationName": "Peace River Mobile",
+    "stationLatitude": "56.1922",
+    "stationLongitude": "-117.4520",
+    "stationElevation": "556.38",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11623",
+    "stationName": "Peavine",
+    "stationLatitude": "55.8392",
+    "stationLongitude": "-116.2667",
+    "stationElevation": "655.00",
+    "stationClimateID": "3065082",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11876",
+    "stationName": "Pekisko",
+    "stationLatitude": "50.3666",
+    "stationLongitude": "-114.4167",
+    "stationElevation": "1341.00",
+    "stationClimateID": "3055119",
+    "stationWMOID": "71669",
+    "stationTransportCanID": "NPK"
+  },
+  {
+    "stationID": "11811",
+    "stationName": "Pelletier Creek",
+    "stationLatitude": "49.6666",
+    "stationLongitude": "-114.4833",
+    "stationElevation": "1646.00",
+    "stationClimateID": "305NJ61",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9638",
+    "stationName": "Peoria AGDM",
+    "stationLatitude": "49.6666",
+    "stationLongitude": "-114.4833",
+    "stationElevation": "1646.00",
+    "stationClimateID": "305NJ61",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "49983",
+    "stationName": "Peter Lougheed Park",
+    "stationLatitude": "50.7100",
+    "stationLongitude": "-115.1200",
+    "stationElevation": "1622.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64338",
+    "stationName": "Picadelly Auto",
+    "stationLatitude": "57.6500",
+    "stationLongitude": "-114.5300",
+    "stationElevation": "367.00",
+    "stationClimateID": "3075172",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710519",
+    "stationName": "Pierre",
+    "stationLatitude": "57.5494",
+    "stationLongitude": "-111.6533",
+    "stationElevation": "null",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "38222",
+    "stationName": "Pika Run",
+    "stationLatitude": "51.4629",
+    "stationLongitude": "-116.1178",
+    "stationElevation": "2247.97",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2304",
+    "stationName": "Pincher Creek",
+    "stationLatitude": "49.5206",
+    "stationLongitude": "-113.9972",
+    "stationElevation": "1190.00",
+    "stationClimateID": "3035198",
+    "stationWMOID": "71085",
+    "stationTransportCanID": "ZPC"
+  },
+  {
+    "stationID": "2309",
+    "stationName": "Pincher Creek Cr10",
+    "stationLatitude": "49.5217",
+    "stationLongitude": "-114.0047",
+    "stationElevation": "1190.00",
+    "stationClimateID": "3035208",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCK"
+  },
+  {
+    "stationID": "11715",
+    "stationName": "Pine Coulee FP",
+    "stationLatitude": "50.1166",
+    "stationLongitude": "-113.7500",
+    "stationElevation": "1040.00",
+    "stationClimateID": "3035228",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCF"
+  },
+  {
+    "stationID": "15344",
+    "stationName": "Pine Coulee Reservoir",
+    "stationLatitude": "50.1220",
+    "stationLongitude": "-113.7480",
+    "stationElevation": "1050.00",
+    "stationClimateID": "3035224",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PCR"
+  },
+  {
+    "stationID": "859674",
+    "stationName": "Pinhorn AGCM",
+    "stationLatitude": "49.0290",
+    "stationLongitude": "-111.0252",
+    "stationElevation": "1061.00",
+    "stationClimateID": "3045100",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PZN"
+  },
+  {
+    "stationID": "11417",
+    "stationName": "Pinto Lookout",
+    "stationLatitude": "54.7806",
+    "stationLongitude": "-119.3961",
+    "stationElevation": "1046.00",
+    "stationClimateID": "3075225",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "20889312",
+    "stationName": "Pleasant View AGCM",
+    "stationLatitude": "54.9639",
+    "stationLongitude": "-113.3208",
+    "stationElevation": "641.00",
+    "stationClimateID": "3065200",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64269",
+    "stationName": "Poll Haven Auto",
+    "stationLatitude": "49.0300",
+    "stationLongitude": "-113.6000",
+    "stationElevation": "1611.00",
+    "stationClimateID": "3055237",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11154",
+    "stationName": "Pollockville AGDM",
+    "stationLatitude": "51.1254",
+    "stationLongitude": "-111.7052",
+    "stationElevation": "744.00",
+    "stationClimateID": "3025243",
+    "stationWMOID": "71259",
+    "stationTransportCanID": "XPL"
+  },
+  {
+    "stationID": "64342",
+    "stationName": "Ponderosa Auto",
+    "stationLatitude": "59.2100",
+    "stationLongitude": "-117.0600",
+    "stationElevation": "388.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12002",
+    "stationName": "Porcupine Lookout",
+    "stationLatitude": "49.8866",
+    "stationLongitude": "-114.0022",
+    "stationElevation": "1920.00",
+    "stationClimateID": "305NKQR",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11648",
+    "stationName": "Prairie Bluff",
+    "stationLatitude": "49.3065",
+    "stationLongitude": "-114.0909",
+    "stationElevation": "1570.00",
+    "stationClimateID": "3055302",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11526",
+    "stationName": "Prentiss",
+    "stationLatitude": "52.4338",
+    "stationLongitude": "-113.5918",
+    "stationElevation": "953.00",
+    "stationClimateID": "3025297",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "ZPS"
+  },
+  {
+    "stationID": "15435",
+    "stationName": "Priddis Observatory",
+    "stationLatitude": "50.8691",
+    "stationLongitude": "-114.2917",
+    "stationElevation": "1371.00",
+    "stationClimateID": "3033505",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710478",
+    "stationName": "Puskwaskau Auto",
+    "stationLatitude": "55.2191",
+    "stationLongitude": "-117.4933",
+    "stationElevation": "912.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "892",
+    "stationName": "Queenstown",
+    "stationLatitude": "50.7000",
+    "stationLongitude": "-112.9167",
+    "stationElevation": "944.00",
+    "stationClimateID": "3035342",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10418",
+    "stationName": "Radway AGCM",
+    "stationLatitude": "53.9950",
+    "stationLongitude": "-112.8791",
+    "stationElevation": "625.00",
+    "stationClimateID": "3015346",
+    "stationWMOID": "71545",
+    "stationTransportCanID": "PRW"
+  },
+  {
+    "stationID": "710515",
+    "stationName": "Rainbow Lake Auto",
+    "stationLatitude": "58.4969",
+    "stationLongitude": "-119.4103",
+    "stationElevation": "540.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "14714629",
+    "stationName": "Rainier AGCM",
+    "stationLatitude": "50.3667",
+    "stationLongitude": "-112.0999",
+    "stationElevation": "773.00",
+    "stationClimateID": "3035355",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "540427",
+    "stationName": "Ralston AGCM",
+    "stationLatitude": "50.0991",
+    "stationLongitude": "-111.2133",
+    "stationElevation": "770.00",
+    "stationClimateID": "3035362",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PXX"
+  },
+  {
+    "stationID": "64392",
+    "stationName": "Ram Falls Auto",
+    "stationLatitude": "52.0900",
+    "stationLongitude": "-115.8400",
+    "stationElevation": "1641.00",
+    "stationClimateID": "3055379",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10757448",
+    "stationName": "Ranfurly Auto",
+    "stationLatitude": "53.4247",
+    "stationLongitude": "-111.7256",
+    "stationElevation": "687.00",
+    "stationClimateID": "3015401",
+    "stationWMOID": "71637",
+    "stationTransportCanID": "PNX"
+  },
+  {
+    "stationID": "9815",
+    "stationName": "Raymond IMCIN",
+    "stationLatitude": "49.4871",
+    "stationLongitude": "-112.6754",
+    "stationElevation": "950.51",
+    "stationClimateID": "3035422",
+    "stationWMOID": "71536",
+    "stationTransportCanID": "PRY"
+  },
+  {
+    "stationID": "2314",
+    "stationName": "Red Deer Regional A",
+    "stationLatitude": "52.1822",
+    "stationLongitude": "-113.8944",
+    "stationElevation": "904.60",
+    "stationClimateID": "3025484",
+    "stationWMOID": "71878",
+    "stationTransportCanID": "YQF"
+  },
+  {
+    "stationID": "4569",
+    "stationName": "Red Earth",
+    "stationLatitude": "56.5500",
+    "stationLongitude": "-115.2833",
+    "stationElevation": "546.00",
+    "stationClimateID": "3075488",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WRD"
+  },
+  {
+    "stationID": "39273155",
+    "stationName": "Red Earth Auto",
+    "stationLatitude": "56.6606",
+    "stationLongitude": "-115.1140",
+    "stationElevation": "627.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "33222385",
+    "stationName": "Redwater Industrial",
+    "stationLatitude": "53.8433",
+    "stationLongitude": "-113.0991",
+    "stationElevation": "630.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6014",
+    "stationName": "Ribstone South AGCM",
+    "stationLatitude": "52.5870",
+    "stationLongitude": "-110.3429",
+    "stationElevation": "644.00",
+    "stationClimateID": "3015480",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PRS"
+  },
+  {
+    "stationID": "10909",
+    "stationName": "Rich Lake AGDM",
+    "stationLatitude": "54.5012",
+    "stationLongitude": "-111.6914",
+    "stationElevation": "616.00",
+    "stationClimateID": "3065475",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XRL"
+  },
+  {
+    "stationID": "710463",
+    "stationName": "Richardson  Auto",
+    "stationLatitude": "57.8900",
+    "stationLongitude": "-110.9710",
+    "stationElevation": "365.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5064",
+    "stationName": "Rivercourse AGCM",
+    "stationLatitude": "53.0189",
+    "stationLongitude": "-110.1020",
+    "stationElevation": "669.00",
+    "stationClimateID": "3015501",
+    "stationWMOID": "71102",
+    "stationTransportCanID": "PRA"
+  },
+  {
+    "stationID": "39271075",
+    "stationName": "Rock Island Lake Auto",
+    "stationLatitude": "55.3264",
+    "stationLongitude": "-113.4604",
+    "stationElevation": "722.00",
+    "stationClimateID": "3065515",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5913047",
+    "stationName": "Rocky Lane AGCM",
+    "stationLatitude": "58.4518",
+    "stationLongitude": "-116.4806",
+    "stationElevation": "301.00",
+    "stationClimateID": "3075550",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5751",
+    "stationName": "Rocky Mountain House(AUT)",
+    "stationLatitude": "52.4166",
+    "stationLongitude": "-114.9167",
+    "stationElevation": "988.00",
+    "stationClimateID": "3015523",
+    "stationWMOID": "71928",
+    "stationTransportCanID": "WRM"
+  },
+  {
+    "stationID": "10027",
+    "stationName": "Rolling Hills AGCM",
+    "stationLatitude": "50.2651",
+    "stationLongitude": "-111.7011",
+    "stationElevation": "743.00",
+    "stationClimateID": "3035530",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PRH"
+  },
+  {
+    "stationID": "710518",
+    "stationName": "Roma",
+    "stationLatitude": "56.1932",
+    "stationLongitude": "-117.4520",
+    "stationElevation": "560.00",
+    "stationClimateID": "3075043",
+    "stationWMOID": "73104",
+    "stationTransportCanID": "PRV"
+  },
+  {
+    "stationID": "5097",
+    "stationName": "Rosalind AGCM",
+    "stationLatitude": "52.7922",
+    "stationLongitude": "-112.4222",
+    "stationElevation": "708.00",
+    "stationClimateID": "3015600",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PRL"
+  },
+  {
+    "stationID": "11184",
+    "stationName": "Rosemary IMCIN",
+    "stationLatitude": "50.8344",
+    "stationLongitude": "-112.0573",
+    "stationElevation": "729.23",
+    "stationClimateID": "3035650",
+    "stationWMOID": "71537",
+    "stationTransportCanID": "PRO"
+  },
+  {
+    "stationID": "39271090",
+    "stationName": "Round Hill Auto",
+    "stationLatitude": "55.3016",
+    "stationLongitude": "-111.9951",
+    "stationElevation": "693.00",
+    "stationClimateID": "3065560",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15419",
+    "stationName": "Rush Lake",
+    "stationLatitude": "49.7131",
+    "stationLongitude": "-110.6578",
+    "stationElevation": "1082.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9579",
+    "stationName": "Rycroft AGCM",
+    "stationLatitude": "55.7768",
+    "stationLongitude": "-118.6681",
+    "stationElevation": "575.00",
+    "stationClimateID": "3075601",
+    "stationWMOID": "71546",
+    "stationTransportCanID": "PRF"
+  },
+  {
+    "stationID": "710479",
+    "stationName": "Saddle Hills Auto",
+    "stationLatitude": "55.6230",
+    "stationLongitude": "-119.7165",
+    "stationElevation": "963.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273294",
+    "stationName": "Salt Prairie Auto",
+    "stationLatitude": "55.6608",
+    "stationLongitude": "-115.8323",
+    "stationElevation": "762.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64402",
+    "stationName": "Salteaux Auto",
+    "stationLatitude": "54.9200",
+    "stationLongitude": "-114.7800",
+    "stationElevation": "736.00",
+    "stationClimateID": "3065693",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39271105",
+    "stationName": "Sand River Auto",
+    "stationLatitude": "54.6469",
+    "stationLongitude": "-110.9817",
+    "stationElevation": "755.00",
+    "stationClimateID": "3065710",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "860799",
+    "stationName": "Sandy Lake AGCM",
+    "stationLatitude": "53.8514",
+    "stationLongitude": "-111.8353",
+    "stationElevation": "656.00",
+    "stationClimateID": "3065712",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273104",
+    "stationName": "Sandy Lake Auto",
+    "stationLatitude": "55.8215",
+    "stationLongitude": "-113.6700",
+    "stationElevation": "631.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2324",
+    "stationName": "Sask River Crossing 2",
+    "stationLatitude": "51.9666",
+    "stationLongitude": "-116.7167",
+    "stationElevation": "1392.00",
+    "stationClimateID": "3055754",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "SXG"
+  },
+  {
+    "stationID": "9416",
+    "stationName": "Savanna AGCM",
+    "stationLatitude": "56.0761",
+    "stationLongitude": "-119.3449",
+    "stationElevation": "703.00",
+    "stationClimateID": "3075770",
+    "stationWMOID": "71547",
+    "stationTransportCanID": "PSW"
+  },
+  {
+    "stationID": "15350",
+    "stationName": "Scalp Creek",
+    "stationLatitude": "51.8000",
+    "stationLongitude": "-115.6500",
+    "stationElevation": "2042.00",
+    "stationClimateID": "3055761",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "SLC"
+  },
+  {
+    "stationID": "9415",
+    "stationName": "Schuler AGDM",
+    "stationLatitude": "50.3072",
+    "stationLongitude": "-110.0905",
+    "stationElevation": "800.00",
+    "stationClimateID": "3025768",
+    "stationWMOID": "71269",
+    "stationTransportCanID": "XSC"
+  },
+  {
+    "stationID": "64311",
+    "stationName": "Schwartz Creek  Auto",
+    "stationLatitude": "53.4200",
+    "stationLongitude": "-116.5200",
+    "stationElevation": "986.00",
+    "stationClimateID": "3065765",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11693",
+    "stationName": "Scotch Camp",
+    "stationLatitude": "51.6667",
+    "stationLongitude": "-115.8140",
+    "stationElevation": "1737.00",
+    "stationClimateID": "3055768",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10577",
+    "stationName": "Sedalia AGCM",
+    "stationLatitude": "51.5905",
+    "stationLongitude": "-110.7547",
+    "stationElevation": "755.00",
+    "stationClimateID": "3015797",
+    "stationWMOID": "71399",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10007",
+    "stationName": "Seven Persons IMCIN",
+    "stationLatitude": "49.9183",
+    "stationLongitude": "-110.9149",
+    "stationElevation": "743.36",
+    "stationClimateID": "3035845",
+    "stationWMOID": "71525",
+    "stationTransportCanID": "PSV"
+  },
+  {
+    "stationID": "4524",
+    "stationName": "Sheep River II",
+    "stationLatitude": "50.6528",
+    "stationLongitude": "-114.6178",
+    "stationElevation": "1525.00",
+    "stationClimateID": "3055H8C",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "592403",
+    "stationName": "Sheerness AGCM",
+    "stationLatitude": "51.4628",
+    "stationLongitude": "-111.6464",
+    "stationElevation": "852.00",
+    "stationClimateID": "3025890",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PXS"
+  },
+  {
+    "stationID": "64379",
+    "stationName": "Shell Hamberg",
+    "stationLatitude": "57.3511",
+    "stationLongitude": "-119.7606",
+    "stationElevation": "769.00",
+    "stationClimateID": "3070NLN",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "5110",
+    "stationName": "Shonts AGCM",
+    "stationLatitude": "53.3325",
+    "stationLongitude": "-112.5395",
+    "stationElevation": "679.00",
+    "stationClimateID": "3015900",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PSH"
+  },
+  {
+    "stationID": "710529",
+    "stationName": "Simonette Auto",
+    "stationLatitude": "54.2290",
+    "stationLongitude": "-118.4060",
+    "stationElevation": "1431.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "4539",
+    "stationName": "Skoki Mountain",
+    "stationLatitude": "51.5406",
+    "stationLongitude": "-116.0564",
+    "stationElevation": "2040.00",
+    "stationClimateID": "3055976",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2332",
+    "stationName": "Slave Lake",
+    "stationLatitude": "55.2833",
+    "stationLongitude": "-114.7833",
+    "stationElevation": "583.00",
+    "stationClimateID": "3065995",
+    "stationWMOID": "71369",
+    "stationTransportCanID": "YZH"
+  },
+  {
+    "stationID": "860680",
+    "stationName": "Slave Lake RCS",
+    "stationLatitude": "55.2931",
+    "stationLongitude": "-114.7772",
+    "stationElevation": "582.80",
+    "stationClimateID": "3065997",
+    "stationWMOID": "71693",
+    "stationTransportCanID": "PZH"
+  },
+  {
+    "stationID": "10934",
+    "stationName": "Smoky Lake AGDM",
+    "stationLatitude": "54.2648",
+    "stationLongitude": "-112.5041",
+    "stationElevation": "675.00",
+    "stationClimateID": "3016022",
+    "stationWMOID": "71274",
+    "stationTransportCanID": "XSL"
+  },
+  {
+    "stationID": "710451",
+    "stationName": "Snuff Mountain Auto",
+    "stationLatitude": "54.6783",
+    "stationLongitude": "-117.5387",
+    "stationElevation": "942.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "592406",
+    "stationName": "Social Plains AGCM",
+    "stationLatitude": "50.7320",
+    "stationLongitude": "-110.2147",
+    "stationElevation": "741.00",
+    "stationClimateID": "3036040",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PPN"
+  },
+  {
+    "stationID": "11582",
+    "stationName": "South Ghost Headwaters",
+    "stationLatitude": "51.2127",
+    "stationLongitude": "-115.1719",
+    "stationElevation": "1680.00",
+    "stationClimateID": "3056056",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11898",
+    "stationName": "South Racehorse Creek",
+    "stationLatitude": "49.7833",
+    "stationLongitude": "-114.6000",
+    "stationElevation": "1920.00",
+    "stationClimateID": "3055343",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "SRH"
+  },
+  {
+    "stationID": "11662",
+    "stationName": "Southesk",
+    "stationLatitude": "52.6666",
+    "stationLongitude": "-117.2000",
+    "stationElevation": "2186.00",
+    "stationClimateID": "3056055",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "skc"
+  },
+  {
+    "stationID": "11543",
+    "stationName": "Spionkop Creek",
+    "stationLatitude": "49.2166",
+    "stationLongitude": "-114.0833",
+    "stationElevation": "1861.00",
+    "stationClimateID": "3056067",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "SCM"
+  },
+  {
+    "stationID": "15448",
+    "stationName": "Spirit River Auto",
+    "stationLatitude": "55.7000",
+    "stationLongitude": "-119.2333",
+    "stationElevation": "1015.00",
+    "stationClimateID": "3076069",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XSR"
+  },
+  {
+    "stationID": "10273",
+    "stationName": "Spondin AGCM",
+    "stationLatitude": "51.8160",
+    "stationLongitude": "-111.6826",
+    "stationElevation": "804.00",
+    "stationClimateID": "3016070",
+    "stationWMOID": "71413",
+    "stationTransportCanID": "PSP"
+  },
+  {
+    "stationID": "11346",
+    "stationName": "Spring Creek Moose",
+    "stationLatitude": "54.9500",
+    "stationLongitude": "-117.7333",
+    "stationElevation": "719.00",
+    "stationClimateID": "307F0G9",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "7309",
+    "stationName": "St. Albert Research",
+    "stationLatitude": "53.6920",
+    "stationLongitude": "-113.6196",
+    "stationElevation": "687.00",
+    "stationClimateID": "3025750",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "19738915",
+    "stationName": "St. Francis AGCM",
+    "stationLatitude": "53.2948",
+    "stationLongitude": "-114.3201",
+    "stationElevation": "750.00",
+    "stationClimateID": "3012799",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10436",
+    "stationName": "St. Lina AGCM",
+    "stationLatitude": "54.2822",
+    "stationLongitude": "-111.4531",
+    "stationElevation": "619.00",
+    "stationClimateID": "3015673",
+    "stationWMOID": "71548",
+    "stationTransportCanID": "PSL"
+  },
+  {
+    "stationID": "11720",
+    "stationName": "St. Mary Ranger Station",
+    "stationLatitude": "48.7363",
+    "stationLongitude": "-113.4243",
+    "stationElevation": "1390.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "MAR"
+  },
+  {
+    "stationID": "12139",
+    "stationName": "St. Mary Reservoir",
+    "stationLatitude": "49.3613",
+    "stationLongitude": "-113.1100",
+    "stationElevation": "1128.00",
+    "stationClimateID": "3056100",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PMR"
+  },
+  {
+    "stationID": "10961",
+    "stationName": "St. Paul AGDM",
+    "stationLatitude": "54.0110",
+    "stationLongitude": "-111.2719",
+    "stationElevation": "659.00",
+    "stationClimateID": "3015676",
+    "stationWMOID": "71275",
+    "stationTransportCanID": "XSP"
+  },
+  {
+    "stationID": "10601",
+    "stationName": "Standard AGCM",
+    "stationLatitude": "51.2284",
+    "stationLongitude": "-112.9821",
+    "stationElevation": "901.00",
+    "stationClimateID": "3036086",
+    "stationWMOID": "71440",
+    "stationTransportCanID": "PSD"
+  },
+  {
+    "stationID": "2337",
+    "stationName": "Stavely AAFC",
+    "stationLatitude": "50.1833",
+    "stationLongitude": "-113.8833",
+    "stationElevation": "1364.00",
+    "stationClimateID": "3036099",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WXN"
+  },
+  {
+    "stationID": "710530",
+    "stationName": "Steen River Auto",
+    "stationLatitude": "59.6345",
+    "stationLongitude": "-117.7886",
+    "stationElevation": "705.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "1503",
+    "stationName": "Steepbank",
+    "stationLatitude": "57.0273",
+    "stationLongitude": "-111.4291",
+    "stationElevation": "0.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6036",
+    "stationName": "Stettler AGDM",
+    "stationLatitude": "52.3470",
+    "stationLongitude": "-112.5955",
+    "stationElevation": "795.00",
+    "stationClimateID": "3016124",
+    "stationWMOID": "71289",
+    "stationTransportCanID": "XAK"
+  },
+  {
+    "stationID": "11213",
+    "stationName": "Strathmore IMCIN",
+    "stationLatitude": "51.0387",
+    "stationLongitude": "-113.2897",
+    "stationElevation": "976.11",
+    "stationClimateID": "3036205",
+    "stationWMOID": "71526",
+    "stationTransportCanID": "PST"
+  },
+  {
+    "stationID": "4554",
+    "stationName": "Streeter Creek",
+    "stationLatitude": "50.1167",
+    "stationLongitude": "-114.0667",
+    "stationElevation": "1370.00",
+    "stationClimateID": "3056212",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "37204",
+    "stationName": "Sullivan Creek",
+    "stationLatitude": "50.5108",
+    "stationLongitude": "-114.4392",
+    "stationElevation": "1368.85",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2356",
+    "stationName": "Sundre A",
+    "stationLatitude": "51.7666",
+    "stationLongitude": "-114.6833",
+    "stationElevation": "1114.00",
+    "stationClimateID": "3026KNQ",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WAV"
+  },
+  {
+    "stationID": "37207",
+    "stationName": "Sundre South",
+    "stationLatitude": "51.7667",
+    "stationLongitude": "-114.6389",
+    "stationElevation": "1135.76",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "7386318",
+    "stationName": "Sunnynook AGCM",
+    "stationLatitude": "51.3009",
+    "stationLongitude": "-111.3882",
+    "stationElevation": "771.00",
+    "stationClimateID": "3026264",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11377",
+    "stationName": "Sunshine Village",
+    "stationLatitude": "51.0666",
+    "stationLongitude": "-115.7833",
+    "stationElevation": "2187.00",
+    "stationClimateID": "3056267",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "SSV"
+  },
+  {
+    "stationID": "710522",
+    "stationName": "Surmont",
+    "stationLatitude": "56.2236",
+    "stationLongitude": "-110.9590",
+    "stationElevation": "null",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "31425921",
+    "stationName": "Swan Dive Auto",
+    "stationLatitude": "56.2236",
+    "stationLongitude": "-110.9590",
+    "stationElevation": "null",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273225",
+    "stationName": "Sweathouse Auto",
+    "stationLatitude": "54.8989",
+    "stationLongitude": "-116.7519",
+    "stationElevation": "892.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273260",
+    "stationName": "Talbot Lake Auto",
+    "stationLatitude": "57.3487",
+    "stationLongitude": "-115.6564",
+    "stationElevation": "822.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11314",
+    "stationName": "Tawatinaw AGCM",
+    "stationLatitude": "54.2999",
+    "stationLongitude": "-113.5203",
+    "stationElevation": "611.00",
+    "stationClimateID": "3066367",
+    "stationWMOID": "71549",
+    "stationTransportCanID": "PTA"
+  },
+  {
+    "stationID": "9694",
+    "stationName": "Teepee Creek AGCM",
+    "stationLatitude": "55.3524",
+    "stationLongitude": "-118.4076",
+    "stationElevation": "670.00",
+    "stationClimateID": "3076366",
+    "stationWMOID": "71690",
+    "stationTransportCanID": "PTC"
+  },
+  {
+    "stationID": "39273242",
+    "stationName": "Teepee Lake Auto",
+    "stationLatitude": "56.4582",
+    "stationLongitude": "-114.1184",
+    "stationElevation": "782.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11598",
+    "stationName": "Tennessee Creek",
+    "stationLatitude": "49.6932",
+    "stationLongitude": "-113.9780",
+    "stationElevation": "1480.00",
+    "stationClimateID": "3036380",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6008",
+    "stationName": "Thorsby AGCM",
+    "stationLatitude": "53.2174",
+    "stationLongitude": "-113.8948",
+    "stationElevation": "754.00",
+    "stationClimateID": "3016441",
+    "stationWMOID": "71504",
+    "stationTransportCanID": "PTH"
+  },
+  {
+    "stationID": "710431",
+    "stationName": "Three Creeks AGCM",
+    "stationLatitude": "56.3994",
+    "stationLongitude": "-117.0307",
+    "stationElevation": "566.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2375",
+    "stationName": "Three Hills AGCM",
+    "stationLatitude": "56.3994",
+    "stationLongitude": "-117.0307",
+    "stationElevation": "566.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11787",
+    "stationName": "Three Isle Lake",
+    "stationLatitude": "50.6333",
+    "stationLongitude": "-115.2833",
+    "stationElevation": "2240.00",
+    "stationClimateID": "305FMQQ",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "TIL"
+  },
+  {
+    "stationID": "592388",
+    "stationName": "Tide Lake AGCM",
+    "stationLatitude": "50.4557",
+    "stationLongitude": "-111.3214",
+    "stationElevation": "766.00",
+    "stationClimateID": "3036485",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PTE"
+  },
+  {
+    "stationID": "64435",
+    "stationName": "Timeu Creek Auto",
+    "stationLatitude": "54.6600",
+    "stationLongitude": "-114.6100",
+    "stationElevation": "741.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "12087",
+    "stationName": "Tomahawk AGDM",
+    "stationLatitude": "53.4394",
+    "stationLongitude": "-114.7183",
+    "stationElevation": "814.00",
+    "stationClimateID": "3016505",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "NTK"
+  },
+  {
+    "stationID": "5867919",
+    "stationName": "Tompkins Landing AGCM",
+    "stationLatitude": "58.0208",
+    "stationLongitude": "-116.8480",
+    "stationElevation": "343.00",
+    "stationClimateID": "3076530",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "31425991",
+    "stationName": "Tony Auto",
+    "stationLatitude": "54.4054",
+    "stationLongitude": "-117.4915",
+    "stationElevation": "1007.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9637",
+    "stationName": "Travers AGCM",
+    "stationLatitude": "50.3038",
+    "stationLongitude": "-112.8626",
+    "stationElevation": "955.00",
+    "stationClimateID": "3036500",
+    "stationWMOID": "71848",
+    "stationTransportCanID": "PTR"
+  },
+  {
+    "stationID": "39273121",
+    "stationName": "Trout Moutain Auto",
+    "stationLatitude": "56.7960",
+    "stationLongitude": "-114.4200",
+    "stationElevation": "796.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10453",
+    "stationName": "Tulliby Lake AGCM",
+    "stationLatitude": "53.6644",
+    "stationLongitude": "-110.0809",
+    "stationElevation": "596.00",
+    "stationClimateID": "3016593",
+    "stationWMOID": "71857",
+    "stationTransportCanID": "PTU"
+  },
+  {
+    "stationID": "2386",
+    "stationName": "Twin Lakes",
+    "stationLatitude": "54.0589",
+    "stationLongitude": "-114.7947",
+    "stationElevation": "655.00",
+    "stationClimateID": "3066FME",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "TWL"
+  },
+  {
+    "stationID": "10967",
+    "stationName": "Two Hills AGDM",
+    "stationLatitude": "53.6252",
+    "stationLongitude": "-111.6781",
+    "stationElevation": "678.00",
+    "stationClimateID": "3016655",
+    "stationWMOID": "71276",
+    "stationTransportCanID": "XTH"
+  },
+  {
+    "stationID": "9769",
+    "stationName": "Valleyview AGDM",
+    "stationLatitude": "55.0978",
+    "stationLongitude": "-117.1987",
+    "stationElevation": "694.00",
+    "stationClimateID": "3076680",
+    "stationWMOID": "71277",
+    "stationTransportCanID": "XVW"
+  },
+  {
+    "stationID": "15670",
+    "stationName": "Vauxhall CDA CS",
+    "stationLatitude": "50.0500",
+    "stationLongitude": "-112.1333",
+    "stationElevation": "779.00",
+    "stationClimateID": "3036682",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WVO"
+  },
+  {
+    "stationID": "31426049",
+    "stationName": "Vega Auto",
+    "stationLatitude": "54.4284",
+    "stationLongitude": "-114.4295",
+    "stationElevation": "713.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2396",
+    "stationName": "Vegreville",
+    "stationLatitude": "53.5166",
+    "stationLongitude": "-112.1000",
+    "stationElevation": "639.00",
+    "stationClimateID": "3016GF0",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WVI"
+  },
+  {
+    "stationID": "8302846",
+    "stationName": "Verger AGCM",
+    "stationLatitude": "50.8952",
+    "stationLongitude": "-111.9551",
+    "stationElevation": "717.00",
+    "stationClimateID": "3026800",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10993",
+    "stationName": "Vermilion AGDM",
+    "stationLatitude": "53.3438",
+    "stationLongitude": "-110.8818",
+    "stationElevation": "620.00",
+    "stationClimateID": "3016802",
+    "stationWMOID": "71278",
+    "stationTransportCanID": "XVM"
+  },
+  {
+    "stationID": "11734",
+    "stationName": "Vicary Creek",
+    "stationLatitude": "49.8000",
+    "stationLongitude": "-114.4667",
+    "stationElevation": "1606.00",
+    "stationClimateID": "305FQKP",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "VCC"
+  },
+  {
+    "stationID": "5122",
+    "stationName": "Viking AGCM",
+    "stationLatitude": "53.1822",
+    "stationLongitude": "-111.7316",
+    "stationElevation": "711.00",
+    "stationClimateID": "3016841",
+    "stationWMOID": "71888",
+    "stationTransportCanID": "PVA"
+  },
+  {
+    "stationID": "10469",
+    "stationName": "Vilna AGCM",
+    "stationLatitude": "54.1300",
+    "stationLongitude": "-111.9215",
+    "stationElevation": "645.00",
+    "stationClimateID": "3016852",
+    "stationWMOID": "71761",
+    "stationTransportCanID": "PVI"
+  },
+  {
+    "stationID": "2401",
+    "stationName": "Violet Grove CS",
+    "stationLatitude": "53.1500",
+    "stationLongitude": "-115.1167",
+    "stationElevation": "903.00",
+    "stationClimateID": "3016860",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XVG"
+  },
+  {
+    "stationID": "710475",
+    "stationName": "Vulcan AGCM",
+    "stationLatitude": "50.4064",
+    "stationLongitude": "-113.1663",
+    "stationElevation": "976.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "31425837",
+    "stationName": "Wabasca Auto",
+    "stationLatitude": "55.9627",
+    "stationLongitude": "-113.8254",
+    "stationElevation": "555.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "15713",
+    "stationName": "Wainwright CFB Airfield 21",
+    "stationLatitude": "52.8306",
+    "stationLongitude": "-111.1006",
+    "stationElevation": "686.30",
+    "stationClimateID": "301S001",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "ZWN"
+  },
+  {
+    "stationID": "39271120",
+    "stationName": "Wandering River Auto",
+    "stationLatitude": "55.2855",
+    "stationLongitude": "-112.4789",
+    "stationElevation": "579.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "859691",
+    "stationName": "Warner AGCM",
+    "stationLatitude": "49.2829",
+    "stationLongitude": "-112.1605",
+    "stationElevation": "1004.00",
+    "stationClimateID": "3046951",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "PZW"
+  },
+  {
+    "stationID": "15690",
+    "stationName": "Water Valley",
+    "stationLatitude": "51.5000",
+    "stationLongitude": "-114.7167",
+    "stationElevation": "1190.00",
+    "stationClimateID": "305PKMM",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WTV"
+  },
+  {
+    "stationID": "2387",
+    "stationName": "Waterton Park Gate",
+    "stationLatitude": "49.1333",
+    "stationLongitude": "-113.8000",
+    "stationElevation": "1296.00",
+    "stationClimateID": "3056214",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WGM"
+  },
+  {
+    "stationID": "11954",
+    "stationName": "Waterton Red Rock",
+    "stationLatitude": "49.1333",
+    "stationLongitude": "-114.0333",
+    "stationElevation": "1524.00",
+    "stationClimateID": "3057242",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WRR"
+  },
+  {
+    "stationID": "15538",
+    "stationName": "Westcastle",
+    "stationLatitude": "49.2833",
+    "stationLongitude": "-114.3667",
+    "stationElevation": "1524.00",
+    "stationClimateID": "3057K55",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WC1"
+  },
+  {
+    "stationID": "5134",
+    "stationName": "Wetaskiwin AGCM",
+    "stationLatitude": "52.9804",
+    "stationLongitude": "-113.4442",
+    "stationElevation": "774.00",
+    "stationClimateID": "3017282",
+    "stationWMOID": "71895",
+    "stationTransportCanID": "PWT"
+  },
+  {
+    "stationID": "710480",
+    "stationName": "White Mountain Auto",
+    "stationLatitude": "55.7131",
+    "stationLongitude": "-119.2498",
+    "stationElevation": "912.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "2417",
+    "stationName": "Whitecourt A",
+    "stationLatitude": "54.1439",
+    "stationLongitude": "-115.7867",
+    "stationElevation": "782.40",
+    "stationClimateID": "3057376",
+    "stationWMOID": "71930",
+    "stationTransportCanID": "YZU"
+  },
+  {
+    "stationID": "2422",
+    "stationName": "Whitecourt Alberta",
+    "stationLatitude": "54.1397",
+    "stationLongitude": "-115.7839",
+    "stationElevation": "784.70",
+    "stationClimateID": "3067371",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "31426102",
+    "stationName": "Whitecourt Auto",
+    "stationLatitude": "54.0325",
+    "stationLongitude": "-115.7208",
+    "stationElevation": "1172.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273277",
+    "stationName": "Whitefish Auto",
+    "stationLatitude": "56.1834",
+    "stationLongitude": "-115.4729",
+    "stationElevation": "705.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "710483",
+    "stationName": "Whitemud Auto",
+    "stationLatitude": "56.4223",
+    "stationLongitude": "-118.0022",
+    "stationElevation": "835.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "39273326",
+    "stationName": "Whitemud Creek AGCM",
+    "stationLatitude": "55.4043",
+    "stationLongitude": "-117.1796",
+    "stationElevation": "613.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64350",
+    "stationName": "Whitesands Auto",
+    "stationLatitude": "59.4300",
+    "stationLongitude": "-114.9000",
+    "stationElevation": "962.00",
+    "stationClimateID": "3077498",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "64302",
+    "stationName": "Wildhay Auto",
+    "stationLatitude": "59.4300",
+    "stationLongitude": "-114.9000",
+    "stationElevation": "962.00",
+    "stationClimateID": "3077498",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "11565",
+    "stationName": "Willoughby Ridge",
+    "stationLatitude": "49.5500",
+    "stationLongitude": "-114.5000",
+    "stationElevation": "1783.00",
+    "stationClimateID": "305PE6R",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "WBR"
+  },
+  {
+    "stationID": "39270953",
+    "stationName": "Willow Creek 1",
+    "stationLatitude": "53.3856",
+    "stationLongitude": "-118.3475",
+    "stationElevation": "1370.00",
+    "stationClimateID": "306GE70",
+    "stationWMOID": "71252",
+    "stationTransportCanID": "WWO"
+  },
+  {
+    "stationID": "45429",
+    "stationName": "Willow Creek Auto",
+    "stationLatitude": "50.2400",
+    "stationLongitude": "-114.3500",
+    "stationElevation": "1446.00",
+    "stationClimateID": "3057570",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "10290",
+    "stationName": "Wimborne AGCM",
+    "stationLatitude": "51.9360",
+    "stationLongitude": "-113.5908",
+    "stationElevation": "940.00",
+    "stationClimateID": "3027582",
+    "stationWMOID": "71904",
+    "stationTransportCanID": "PWB"
+  },
+  {
+    "stationID": "64429",
+    "stationName": "Windfall Auto",
+    "stationLatitude": "54.1900",
+    "stationLongitude": "-116.2400",
+    "stationElevation": "830.00",
+    "stationClimateID": "3067586",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "6090",
+    "stationName": "Worsley AGCM",
+    "stationLatitude": "56.3709",
+    "stationLongitude": "-119.1829",
+    "stationElevation": "660.00",
+    "stationClimateID": "n/a",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "9295",
+    "stationName": "Wrentham AGDM",
+    "stationLatitude": "49.4952",
+    "stationLongitude": "-112.1116",
+    "stationElevation": "944.00",
+    "stationClimateID": "3037675",
+    "stationWMOID": "71343",
+    "stationTransportCanID": "XWM"
+  },
+  {
+    "stationID": "45441",
+    "stationName": "Yaha Tinda Auto",
+    "stationLatitude": "51.6500",
+    "stationLongitude": "-115.3600",
+    "stationElevation": "1486.00",
+    "stationClimateID": "3057673",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  },
+  {
+    "stationID": "37731",
+    "stationName": "Youngstown AGCM",
+    "stationLatitude": "51.4906",
+    "stationLongitude": "-111.2237",
+    "stationElevation": "797.00",
+    "stationClimateID": "3017705",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
+  }
+]

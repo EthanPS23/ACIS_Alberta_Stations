@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EthanPS23/ACIS_Alberta_Stations#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "puppeteer": "^7.0.4"
   }
 }
