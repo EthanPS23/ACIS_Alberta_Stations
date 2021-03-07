@@ -74,3 +74,5 @@ node_modules/puppeteer/.local-chromium/win64-848005/chrome-win/resources.pak
 node_modules/puppeteer/.local-chromium/win64-848005/chrome-win/swiftshader/libEGL.dll
 node_modules/puppeteer/.local-chromium/win64-848005/chrome-win/swiftshader/libGLESv2.dll
 node_modules/puppeteer/.local-chromium/win64-848005/chrome-win/v8_context_snapshot.bin
+stations.json
+stationsGEO.json

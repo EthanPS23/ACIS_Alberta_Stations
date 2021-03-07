@@ -262,9 +262,9 @@
   {
     "stationID": "710452",
     "stationName": "Battle River Auto",
-    "stationLatitude": "57.1677",
-    "stationLongitude": "-117.6640",
-    "stationElevation": "675.00",
+    "stationLatitude": "58.1952",
+    "stationLongitude": "-118.2185",
+    "stationElevation": "755.00",
     "stationClimateID": "n/a",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
@@ -472,12 +472,12 @@
   {
     "stationID": "10045",
     "stationName": "Bow Island North IMCIN",
-    "stationLatitude": "49.7333",
-    "stationLongitude": "-111.4500",
-    "stationElevation": "817.00",
-    "stationClimateID": "3030768",
-    "stationWMOID": "n/a",
-    "stationTransportCanID": "WXL"
+    "stationLatitude": "49.8682",
+    "stationLongitude": "-111.3663",
+    "stationElevation": "792.02",
+    "stationClimateID": "3030772",
+    "stationWMOID": "71519",
+    "stationTransportCanID": "PXL"
   },
   {
     "stationID": "11773",
@@ -702,12 +702,12 @@
   {
     "stationID": "7484011",
     "stationName": "Cappon AGCM",
-    "stationLatitude": "53.0333",
-    "stationLongitude": "-112.8167",
-    "stationElevation": "739.00",
-    "stationClimateID": "3011240",
+    "stationLatitude": "51.0670",
+    "stationLongitude": "-110.7969",
+    "stationElevation": "748.00",
+    "stationClimateID": "3021200",
     "stationWMOID": "n/a",
-    "stationTransportCanID": "WRV"
+    "stationTransportCanID": "PCN"
   },
   {
     "stationID": "15704",
@@ -1012,22 +1012,22 @@
   {
     "stationID": "64289",
     "stationName": "Cypress Hills",
+    "stationLatitude": "51.4500",
+    "stationLongitude": "-115.7667",
+    "stationElevation": "2180.00",
+    "stationClimateID": "3051R51",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "CHL"
+  },
+  {
+    "stationID": "10793",
+    "stationName": "Dapp AGDM",
     "stationLatitude": "49.6400",
     "stationLongitude": "-110.3300",
     "stationElevation": "1459.00",
     "stationClimateID": "n/a",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
-  },
-  {
-    "stationID": "10793",
-    "stationName": "Dapp AGDM",
-    "stationLatitude": "54.3290",
-    "stationLongitude": "-113.9345",
-    "stationElevation": "619.00",
-    "stationClimateID": "3061975",
-    "stationWMOID": "71340",
-    "stationTransportCanID": "XDP"
   },
   {
     "stationID": "5493961",
@@ -1442,12 +1442,12 @@
   {
     "stationID": "9457",
     "stationName": "Fairview AGDM",
-    "stationLatitude": "56.0815",
-    "stationLongitude": "-118.4395",
-    "stationElevation": "655.00",
-    "stationClimateID": "3072525",
-    "stationWMOID": "71347",
-    "stationTransportCanID": "XFR"
+    "stationLatitude": "53.5732",
+    "stationLongitude": "-115.1236",
+    "stationElevation": "819.00",
+    "stationClimateID": "3062475",
+    "stationWMOID": "71481",
+    "stationTransportCanID": "PEB"
   },
   {
     "stationID": "4431",
@@ -1692,12 +1692,12 @@
   {
     "stationID": "15639",
     "stationName": "Fort Vermilion",
-    "stationLatitude": "56.2333",
-    "stationLongitude": "-120.7333",
-    "stationElevation": "695.00",
-    "stationClimateID": "1183001",
-    "stationWMOID": "71943",
-    "stationTransportCanID": "YXJ"
+    "stationLatitude": "58.3822",
+    "stationLongitude": "-116.0403",
+    "stationElevation": "289.00",
+    "stationClimateID": "3072723",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "XFV"
   },
   {
     "stationID": "64432",
@@ -1912,12 +1912,12 @@
   {
     "stationID": "6057",
     "stationName": "Halkirk AGCM",
-    "stationLatitude": "55.0100",
-    "stationLongitude": "-110.6100",
-    "stationElevation": "737.00",
-    "stationClimateID": "3062968",
-    "stationWMOID": "n/a",
-    "stationTransportCanID": "n/a"
+    "stationLatitude": "52.1166",
+    "stationLongitude": "-112.1641",
+    "stationElevation": "843.00",
+    "stationClimateID": "3012999",
+    "stationWMOID": "71792",
+    "stationTransportCanID": "PHA"
   },
   {
     "stationID": "540406",
@@ -2232,12 +2232,12 @@
   {
     "stationID": "9512",
     "stationName": "Jean Cote AGCM",
-    "stationLatitude": "52.9300",
-    "stationLongitude": "-118.0300",
-    "stationElevation": "1020.00",
-    "stationClimateID": "3053536",
-    "stationWMOID": "71486",
-    "stationTransportCanID": "WJW"
+    "stationLatitude": "55.9129",
+    "stationLongitude": "-117.1198",
+    "stationElevation": "638.00",
+    "stationClimateID": "3073535",
+    "stationWMOID": "71541",
+    "stationTransportCanID": "PJT"
   },
   {
     "stationID": "710511",
@@ -2292,9 +2292,9 @@
   {
     "stationID": "710498",
     "stationName": "Kakwa Tower Auto",
-    "stationLatitude": "54.4209",
-    "stationLongitude": "-118.9822",
-    "stationElevation": "1226.00",
+    "stationLatitude": "54.1800",
+    "stationLongitude": "-119.0600",
+    "stationElevation": "1344.00",
     "stationClimateID": "n/a",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
@@ -2302,9 +2302,9 @@
   {
     "stationID": "45452",
     "stationName": "Kananaskis Boundary Auto",
-    "stationLatitude": "50.9300",
-    "stationLongitude": "-115.1200",
-    "stationElevation": "1464.00",
+    "stationLatitude": "54.4209",
+    "stationLongitude": "-118.9822",
+    "stationElevation": "1226.00",
     "stationClimateID": "n/a",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
@@ -2792,12 +2792,12 @@
   {
     "stationID": "9269",
     "stationName": "Masinasin AGDM",
-    "stationLatitude": "49.1260",
-    "stationLongitude": "-111.6549",
-    "stationElevation": "960.00",
-    "stationClimateID": "3044232",
-    "stationWMOID": "71345",
-    "stationTransportCanID": "XMN"
+    "stationLatitude": "55.5300",
+    "stationLongitude": "-114.5600",
+    "stationElevation": "1000.00",
+    "stationClimateID": "3064219",
+    "stationWMOID": "n/a",
+    "stationTransportCanID": "n/a"
   },
   {
     "stationID": "39271060",
@@ -2972,12 +2972,12 @@
   {
     "stationID": "10849",
     "stationName": "Mundare AGDM",
-    "stationLatitude": "50.4833",
-    "stationLongitude": "-114.9000",
-    "stationElevation": "2060.00",
-    "stationClimateID": "3054733",
-    "stationWMOID": "n/a",
-    "stationTransportCanID": "MO3"
+    "stationLatitude": "53.5606",
+    "stationLongitude": "-112.2961",
+    "stationElevation": "690.00",
+    "stationClimateID": "3014665",
+    "stationWMOID": "71354",
+    "stationTransportCanID": "ZMU"
   },
   {
     "stationID": "710462",
@@ -3252,12 +3252,12 @@
   {
     "stationID": "9638",
     "stationName": "Peoria AGDM",
-    "stationLatitude": "49.6666",
-    "stationLongitude": "-114.4833",
-    "stationElevation": "1646.00",
-    "stationClimateID": "305NJ61",
-    "stationWMOID": "n/a",
-    "stationTransportCanID": "n/a"
+    "stationLatitude": "55.6212",
+    "stationLongitude": "-118.2930",
+    "stationElevation": "621.00",
+    "stationClimateID": "3075160",
+    "stationWMOID": "71348",
+    "stationTransportCanID": "XPA"
   },
   {
     "stationID": "49983",
@@ -3412,10 +3412,10 @@
   {
     "stationID": "11648",
     "stationName": "Prairie Bluff",
-    "stationLatitude": "49.3065",
-    "stationLongitude": "-114.0909",
-    "stationElevation": "1570.00",
-    "stationClimateID": "3055302",
+    "stationLatitude": "49.8866",
+    "stationLongitude": "-114.0022",
+    "stationElevation": "1920.00",
+    "stationClimateID": "305NKQR",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
   },
@@ -3712,12 +3712,12 @@
   {
     "stationID": "710479",
     "stationName": "Saddle Hills Auto",
-    "stationLatitude": "55.6230",
-    "stationLongitude": "-119.7165",
-    "stationElevation": "963.00",
-    "stationClimateID": "n/a",
-    "stationWMOID": "n/a",
-    "stationTransportCanID": "n/a"
+    "stationLatitude": "55.7768",
+    "stationLongitude": "-118.6681",
+    "stationElevation": "575.00",
+    "stationClimateID": "3075601",
+    "stationWMOID": "71546",
+    "stationTransportCanID": "PRF"
   },
   {
     "stationID": "39273294",
@@ -3922,22 +3922,22 @@
   {
     "stationID": "860680",
     "stationName": "Slave Lake RCS",
+    "stationLatitude": "55.2833",
+    "stationLongitude": "-114.7833",
+    "stationElevation": "583.00",
+    "stationClimateID": "3065995",
+    "stationWMOID": "71369",
+    "stationTransportCanID": "YZH"
+  },
+  {
+    "stationID": "10934",
+    "stationName": "Smoky Lake AGDM",
     "stationLatitude": "55.2931",
     "stationLongitude": "-114.7772",
     "stationElevation": "582.80",
     "stationClimateID": "3065997",
     "stationWMOID": "71693",
     "stationTransportCanID": "PZH"
-  },
-  {
-    "stationID": "10934",
-    "stationName": "Smoky Lake AGDM",
-    "stationLatitude": "54.2648",
-    "stationLongitude": "-112.5041",
-    "stationElevation": "675.00",
-    "stationClimateID": "3016022",
-    "stationWMOID": "71274",
-    "stationTransportCanID": "XSL"
   },
   {
     "stationID": "710451",
@@ -4222,9 +4222,9 @@
   {
     "stationID": "31425921",
     "stationName": "Swan Dive Auto",
-    "stationLatitude": "56.2236",
-    "stationLongitude": "-110.9590",
-    "stationElevation": "null",
+    "stationLatitude": "54.7283",
+    "stationLongitude": "-115.3556",
+    "stationElevation": "1241.00",
     "stationClimateID": "n/a",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
@@ -4312,12 +4312,12 @@
   {
     "stationID": "2375",
     "stationName": "Three Hills AGCM",
-    "stationLatitude": "56.3994",
-    "stationLongitude": "-117.0307",
-    "stationElevation": "566.00",
-    "stationClimateID": "n/a",
+    "stationLatitude": "51.7673",
+    "stationLongitude": "-113.2058",
+    "stationElevation": "857.00",
+    "stationClimateID": "3026479",
     "stationWMOID": "n/a",
-    "stationTransportCanID": "n/a"
+    "stationTransportCanID": "WHI"
   },
   {
     "stationID": "11787",
@@ -4712,10 +4712,10 @@
   {
     "stationID": "64302",
     "stationName": "Wildhay Auto",
-    "stationLatitude": "59.4300",
-    "stationLongitude": "-114.9000",
-    "stationElevation": "962.00",
-    "stationClimateID": "3077498",
+    "stationLatitude": "53.8600",
+    "stationLongitude": "-117.5600",
+    "stationElevation": "1041.00",
+    "stationClimateID": "3067542",
     "stationWMOID": "n/a",
     "stationTransportCanID": "n/a"
   },
